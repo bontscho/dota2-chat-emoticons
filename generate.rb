@@ -8,9 +8,6 @@ File.open('src/scripts/emoticons.txt') do |file|
   images = parser.parse["emoticons"]
 end
 
-system "rm assets/images/*.gif"
-system "rm tmp/*.png"
-
 images.each do |obj|
   image = obj[1]
   cmd_split = "convert +repage src/resource/flash3/images/emoticons/#{image["image_name"]} -crop 32x32 tmp/tiles.png"
