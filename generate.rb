@@ -10,7 +10,7 @@ end
 
 images.each do |obj|
   image = obj[1]
-  cmd_split = "convert +repage src/resource/flash3/images/emoticons/#{image["image_name"]} -crop 32x32 tmp/tiles.png"
+  cmd_split = "convert +repage src/emoticons/#{image["image_name"]} -crop 32x32 tmp/tiles.png"
   system cmd_split
   cmd_rename = "for file in tmp/tiles-?.png; do mv $file tmp/tiles-0$(echo \"$file\" | cut -d'-' -f 2); done"
   system cmd_rename
@@ -19,6 +19,9 @@ images.each do |obj|
 
   cmd_assemble = "convert -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}.gif"
   system cmd_assemble
+
+  cmd_assemble16 = "convert -resize 16x16 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-16.gif"
+  system cmd_assemble16
   system "rm tmp/*.png"
   puts "Generated: #{image["aliases"]["0"]}.gif"
 end
