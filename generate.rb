@@ -22,6 +22,10 @@ images.each do |obj|
 
   cmd_assemble16 = "convert -resize 16x16 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-16.gif"
   system cmd_assemble16
+
+  cmd_assemble24 = "convert -resize 24x24 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-16.gif"
+  system cmd_assemble24
+
   system "rm tmp/*.png"
   puts "Generated: #{image["aliases"]["0"]}.gif"
 end

@@ -33,6 +33,34 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:surprise:](assets/images/surprise.gif)
 ![:wink:](assets/images/wink.gif)
 
+### 24x24px
+
+![:blush:](assets/images/blush-24.gif)
+![:cheeky:](assets/images/cheeky-24.gif)
+![:cool:](assets/images/cool-24.gif)
+![:crazy:](assets/images/crazy-24.gif)
+![:cry:](assets/images/cry-24.gif)
+![:disapprove:](assets/images/disapprove-24.gif)
+![:doubledamage:](assets/images/doubledamage-24.gif)
+![:facepalm:](assets/images/facepalm-24.gif)
+![:happytears:](assets/images/happytears-24.gif)
+![:haste:](assets/images/haste-24.gif)
+![:hex:](assets/images/hex-24.gif)
+![:highfive:](assets/images/highfive-24.gif)
+![:huh:](assets/images/huh-24.gif)
+![:hush:](assets/images/hush-24.gif)
+![:illusion:](assets/images/illusion-24.gif)
+![:invisibility:](assets/images/invisibility-24.gif)
+![:laugh:](assets/images/laugh-24.gif)
+![:rage:](assets/images/rage-24.gif)
+![:regeneration:](assets/images/regeneration-24.gif)
+![:sad:](assets/images/sad-24.gif)
+![:sick:](assets/images/sick-24.gif)
+![:sleeping:](assets/images/sleeping-24.gif)
+![:smile:](assets/images/smile-24.gif)
+![:surprise:](assets/images/surprise-24.gif)
+![:wink:](assets/images/wink-24.gif)
+
 ### 16x16px
 
 ![:blush:](assets/images/blush-16.gif)
