@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.2.0)
+    polyglot (0.3.5)
+    treetop (1.5.3)
+      polyglot (~> 0.3)
+    vdf4r (0.1.2)
+      treetop (>= 1.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  vdf4r
