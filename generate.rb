@@ -20,7 +20,7 @@ images.each do |obj|
 
   tick_delay = image["ms_per_frame"].to_i/10
 
-  cmd_assemble = "convert +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}.gif"
+  cmd_assemble = "convert -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}.gif"
   system cmd_assemble
   system "rm tmp/*.png"
   puts "Generated: #{image["aliases"]["0"]}.gif"
