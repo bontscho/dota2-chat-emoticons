@@ -109,3 +109,5 @@ You will need graphicscmagick/imagemagick (`apt-get install graphicsmagick` on D
 Tools I used: [Gibbeds VPK Extractor](https://developer.valvesoftware.com/wiki/Gibbeds_VPK_Extractor)
 
 Full List of Third Party Tools: https://developer.valvesoftware.com/wiki/Category:Third_Party_Tools
+
+All game images and names are property of Valve Corporation.
