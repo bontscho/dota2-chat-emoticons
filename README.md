@@ -1,7 +1,7 @@
 Dota 2 Chat Emoticons
 ====================
 
-The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF for the use on your website/forum/etc.
+The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF and CSS animation for the use on your website/forum/etc.
 
 ## Demo
 
