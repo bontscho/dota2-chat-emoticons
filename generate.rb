@@ -1,5 +1,5 @@
 require 'vdf4r'
-require 'ap'
+require 'erubis'
 
 images = nil
 
@@ -7,6 +7,8 @@ File.open('src/scripts/emoticons.txt') do |file|
   parser = VDF4R::Parser.new(file)
   images = parser.parse["emoticons"]
 end
+
+emotes = []
 
 images.each do |obj|
   image = obj[1]
@@ -28,7 +30,32 @@ images.each do |obj|
 
   system "rm tmp/*.png"
   puts "Generated: #{image["aliases"]["0"]}.gif"
+  emotes << {
+      name: image["aliases"]["0"],
+      image: image["image_name"],
+      width: `identify -format "%w" assets/images/emoticons/#{image["image_name"]}`.to_i,
+      delay: image["ms_per_frame"].to_f/1000
+  }
 end
+
+# generate stylsheet for png stuff
+sheet = File.read('src/stylesheet.css.eruby')
+eruby = Erubis::Eruby.new(sheet)
+
+File.open("assets/stylesheets/dota2-chat-emoticons.css", "w") do |f|
+  f.write(eruby.result(:emotes=>emotes))
+end
+
+puts "Generated: CSS Animation Stylesheet"
+
+demo = File.read('src/demo.html.eruby')
+eruby = Erubis::Eruby.new(demo)
+
+File.open("demo.html", "w") do |f|
+  f.write(eruby.result(:emotes=>emotes))
+end
+
+puts "Generated: CSS Animation Demo HTML"
 
 puts "Done!"
 

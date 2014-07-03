@@ -93,6 +93,17 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 
 Just copy the `assets` folder into your project and refer to the corresponding gifs in your HTML.
 
+To use the CSS animation version with the PNGs embed the `assets/stylesheets/dota2-chat-emoticons.css` into your HTML and use like this:
+
+```html
+<i class="d2ce wink"></i>
+<i class="d2ce blush"></i>
+<i class="d2ce cheeky"></i>
+...
+```
+
+> **Recommendation**: For highest quality, use the CSS Animation since PNG supports alpha.
+
 ## Update Workflow
 
 In case Valve adds more emoticons:

@@ -1,0 +1,975 @@
+
+.d2ce.wink {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/wink.png");
+
+    -webkit-animation: play-wink 1.4s steps(14) infinite;
+    -moz-animation: play-wink 1.4s steps(14) infinite;
+    -ms-animation: play-wink 1.4s steps(14) infinite;
+    -o-animation: play-wink 1.4s steps(14) infinite;
+    animation: play-wink 1.4s steps(14) infinite;
+}
+
+@-webkit-keyframes play-wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-moz-keyframes play-wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-ms-keyframes play-wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-o-keyframes play-wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@keyframes play-wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+
+.d2ce.blush {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/blush.png");
+
+    -webkit-animation: play-blush 1.7s steps(17) infinite;
+    -moz-animation: play-blush 1.7s steps(17) infinite;
+    -ms-animation: play-blush 1.7s steps(17) infinite;
+    -o-animation: play-blush 1.7s steps(17) infinite;
+    animation: play-blush 1.7s steps(17) infinite;
+}
+
+@-webkit-keyframes play-blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-moz-keyframes play-blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-ms-keyframes play-blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-o-keyframes play-blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@keyframes play-blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+
+.d2ce.cheeky {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/cheeky.png");
+
+    -webkit-animation: play-cheeky 2.1s steps(21) infinite;
+    -moz-animation: play-cheeky 2.1s steps(21) infinite;
+    -ms-animation: play-cheeky 2.1s steps(21) infinite;
+    -o-animation: play-cheeky 2.1s steps(21) infinite;
+    animation: play-cheeky 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.cool {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/cool.png");
+
+    -webkit-animation: play-cool 2.0s steps(20) infinite;
+    -moz-animation: play-cool 2.0s steps(20) infinite;
+    -ms-animation: play-cool 2.0s steps(20) infinite;
+    -o-animation: play-cool 2.0s steps(20) infinite;
+    animation: play-cool 2.0s steps(20) infinite;
+}
+
+@-webkit-keyframes play-cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@-moz-keyframes play-cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@-ms-keyframes play-cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@-o-keyframes play-cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@keyframes play-cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+
+.d2ce.crazy {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/crazy.png");
+
+    -webkit-animation: play-crazy 0.6s steps(6) infinite;
+    -moz-animation: play-crazy 0.6s steps(6) infinite;
+    -ms-animation: play-crazy 0.6s steps(6) infinite;
+    -o-animation: play-crazy 0.6s steps(6) infinite;
+    animation: play-crazy 0.6s steps(6) infinite;
+}
+
+@-webkit-keyframes play-crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@-moz-keyframes play-crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@-ms-keyframes play-crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@-o-keyframes play-crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@keyframes play-crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+
+.d2ce.cry {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/cry.png");
+
+    -webkit-animation: play-cry 2.2s steps(22) infinite;
+    -moz-animation: play-cry 2.2s steps(22) infinite;
+    -ms-animation: play-cry 2.2s steps(22) infinite;
+    -o-animation: play-cry 2.2s steps(22) infinite;
+    animation: play-cry 2.2s steps(22) infinite;
+}
+
+@-webkit-keyframes play-cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-moz-keyframes play-cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-ms-keyframes play-cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-o-keyframes play-cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@keyframes play-cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+
+.d2ce.disapprove {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/disaprove.png");
+
+    -webkit-animation: play-disapprove 2.1s steps(21) infinite;
+    -moz-animation: play-disapprove 2.1s steps(21) infinite;
+    -ms-animation: play-disapprove 2.1s steps(21) infinite;
+    -o-animation: play-disapprove 2.1s steps(21) infinite;
+    animation: play-disapprove 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.doubledamage {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/doubledamage.png");
+
+    -webkit-animation: play-doubledamage 1.2s steps(12) infinite;
+    -moz-animation: play-doubledamage 1.2s steps(12) infinite;
+    -ms-animation: play-doubledamage 1.2s steps(12) infinite;
+    -o-animation: play-doubledamage 1.2s steps(12) infinite;
+    animation: play-doubledamage 1.2s steps(12) infinite;
+}
+
+@-webkit-keyframes play-doubledamage {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-moz-keyframes play-doubledamage {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-ms-keyframes play-doubledamage {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-o-keyframes play-doubledamage {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@keyframes play-doubledamage {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+
+.d2ce.facepalm {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/facepalm.png");
+
+    -webkit-animation: play-facepalm 2.4s steps(24) infinite;
+    -moz-animation: play-facepalm 2.4s steps(24) infinite;
+    -ms-animation: play-facepalm 2.4s steps(24) infinite;
+    -o-animation: play-facepalm 2.4s steps(24) infinite;
+    animation: play-facepalm 2.4s steps(24) infinite;
+}
+
+@-webkit-keyframes play-facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-moz-keyframes play-facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-ms-keyframes play-facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-o-keyframes play-facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@keyframes play-facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+
+.d2ce.happytears {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/happytears.png");
+
+    -webkit-animation: play-happytears 1.3s steps(13) infinite;
+    -moz-animation: play-happytears 1.3s steps(13) infinite;
+    -ms-animation: play-happytears 1.3s steps(13) infinite;
+    -o-animation: play-happytears 1.3s steps(13) infinite;
+    animation: play-happytears 1.3s steps(13) infinite;
+}
+
+@-webkit-keyframes play-happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-moz-keyframes play-happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-ms-keyframes play-happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-o-keyframes play-happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@keyframes play-happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+
+.d2ce.haste {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/haste.png");
+
+    -webkit-animation: play-haste 3.1s steps(31) infinite;
+    -moz-animation: play-haste 3.1s steps(31) infinite;
+    -ms-animation: play-haste 3.1s steps(31) infinite;
+    -o-animation: play-haste 3.1s steps(31) infinite;
+    animation: play-haste 3.1s steps(31) infinite;
+}
+
+@-webkit-keyframes play-haste {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@-moz-keyframes play-haste {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@-ms-keyframes play-haste {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@-o-keyframes play-haste {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@keyframes play-haste {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+
+.d2ce.hex {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/hex.png");
+
+    -webkit-animation: play-hex 4.7s steps(47) infinite;
+    -moz-animation: play-hex 4.7s steps(47) infinite;
+    -ms-animation: play-hex 4.7s steps(47) infinite;
+    -o-animation: play-hex 4.7s steps(47) infinite;
+    animation: play-hex 4.7s steps(47) infinite;
+}
+
+@-webkit-keyframes play-hex {
+    from { background-position: 0px; }
+    to { background-position: -1504px; }
+}
+
+@-moz-keyframes play-hex {
+    from { background-position: 0px; }
+    to { background-position: -1504px; }
+}
+
+@-ms-keyframes play-hex {
+    from { background-position: 0px; }
+    to { background-position: -1504px; }
+}
+
+@-o-keyframes play-hex {
+    from { background-position: 0px; }
+    to { background-position: -1504px; }
+}
+
+@keyframes play-hex {
+    from { background-position: 0px; }
+    to { background-position: -1504px; }
+}
+
+
+.d2ce.highfive {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/highfive.png");
+
+    -webkit-animation: play-highfive 1.4s steps(14) infinite;
+    -moz-animation: play-highfive 1.4s steps(14) infinite;
+    -ms-animation: play-highfive 1.4s steps(14) infinite;
+    -o-animation: play-highfive 1.4s steps(14) infinite;
+    animation: play-highfive 1.4s steps(14) infinite;
+}
+
+@-webkit-keyframes play-highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-moz-keyframes play-highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-ms-keyframes play-highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-o-keyframes play-highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@keyframes play-highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+
+.d2ce.huh {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/huh.png");
+
+    -webkit-animation: play-huh 1.8s steps(18) infinite;
+    -moz-animation: play-huh 1.8s steps(18) infinite;
+    -ms-animation: play-huh 1.8s steps(18) infinite;
+    -o-animation: play-huh 1.8s steps(18) infinite;
+    animation: play-huh 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
+.d2ce.hush {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/hush.png");
+
+    -webkit-animation: play-hush 1.9s steps(19) infinite;
+    -moz-animation: play-hush 1.9s steps(19) infinite;
+    -ms-animation: play-hush 1.9s steps(19) infinite;
+    -o-animation: play-hush 1.9s steps(19) infinite;
+    animation: play-hush 1.9s steps(19) infinite;
+}
+
+@-webkit-keyframes play-hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-moz-keyframes play-hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-ms-keyframes play-hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-o-keyframes play-hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@keyframes play-hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+
+.d2ce.illusion {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/illusion.png");
+
+    -webkit-animation: play-illusion 1.1s steps(11) infinite;
+    -moz-animation: play-illusion 1.1s steps(11) infinite;
+    -ms-animation: play-illusion 1.1s steps(11) infinite;
+    -o-animation: play-illusion 1.1s steps(11) infinite;
+    animation: play-illusion 1.1s steps(11) infinite;
+}
+
+@-webkit-keyframes play-illusion {
+    from { background-position: 0px; }
+    to { background-position: -352px; }
+}
+
+@-moz-keyframes play-illusion {
+    from { background-position: 0px; }
+    to { background-position: -352px; }
+}
+
+@-ms-keyframes play-illusion {
+    from { background-position: 0px; }
+    to { background-position: -352px; }
+}
+
+@-o-keyframes play-illusion {
+    from { background-position: 0px; }
+    to { background-position: -352px; }
+}
+
+@keyframes play-illusion {
+    from { background-position: 0px; }
+    to { background-position: -352px; }
+}
+
+
+.d2ce.invisibility {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/invisibility.png");
+
+    -webkit-animation: play-invisibility 1.9s steps(19) infinite;
+    -moz-animation: play-invisibility 1.9s steps(19) infinite;
+    -ms-animation: play-invisibility 1.9s steps(19) infinite;
+    -o-animation: play-invisibility 1.9s steps(19) infinite;
+    animation: play-invisibility 1.9s steps(19) infinite;
+}
+
+@-webkit-keyframes play-invisibility {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-moz-keyframes play-invisibility {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-ms-keyframes play-invisibility {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-o-keyframes play-invisibility {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@keyframes play-invisibility {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+
+.d2ce.laugh {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/laugh.png");
+
+    -webkit-animation: play-laugh 1.2s steps(12) infinite;
+    -moz-animation: play-laugh 1.2s steps(12) infinite;
+    -ms-animation: play-laugh 1.2s steps(12) infinite;
+    -o-animation: play-laugh 1.2s steps(12) infinite;
+    animation: play-laugh 1.2s steps(12) infinite;
+}
+
+@-webkit-keyframes play-laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-moz-keyframes play-laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-ms-keyframes play-laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-o-keyframes play-laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@keyframes play-laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+
+.d2ce.rage {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/rage.png");
+
+    -webkit-animation: play-rage 1.6s steps(16) infinite;
+    -moz-animation: play-rage 1.6s steps(16) infinite;
+    -ms-animation: play-rage 1.6s steps(16) infinite;
+    -o-animation: play-rage 1.6s steps(16) infinite;
+    animation: play-rage 1.6s steps(16) infinite;
+}
+
+@-webkit-keyframes play-rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-moz-keyframes play-rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-ms-keyframes play-rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-o-keyframes play-rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@keyframes play-rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+
+.d2ce.regeneration {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/regeneration.png");
+
+    -webkit-animation: play-regeneration 2.3s steps(23) infinite;
+    -moz-animation: play-regeneration 2.3s steps(23) infinite;
+    -ms-animation: play-regeneration 2.3s steps(23) infinite;
+    -o-animation: play-regeneration 2.3s steps(23) infinite;
+    animation: play-regeneration 2.3s steps(23) infinite;
+}
+
+@-webkit-keyframes play-regeneration {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-moz-keyframes play-regeneration {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-ms-keyframes play-regeneration {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-o-keyframes play-regeneration {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@keyframes play-regeneration {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+
+.d2ce.sad {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/sad.png");
+
+    -webkit-animation: play-sad 1.8s steps(18) infinite;
+    -moz-animation: play-sad 1.8s steps(18) infinite;
+    -ms-animation: play-sad 1.8s steps(18) infinite;
+    -o-animation: play-sad 1.8s steps(18) infinite;
+    animation: play-sad 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
+.d2ce.sick {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/sick.png");
+
+    -webkit-animation: play-sick 1.7s steps(17) infinite;
+    -moz-animation: play-sick 1.7s steps(17) infinite;
+    -ms-animation: play-sick 1.7s steps(17) infinite;
+    -o-animation: play-sick 1.7s steps(17) infinite;
+    animation: play-sick 1.7s steps(17) infinite;
+}
+
+@-webkit-keyframes play-sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-moz-keyframes play-sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-ms-keyframes play-sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-o-keyframes play-sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@keyframes play-sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+
+.d2ce.sleeping {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/sleeping.png");
+
+    -webkit-animation: play-sleeping 2.4s steps(12) infinite;
+    -moz-animation: play-sleeping 2.4s steps(12) infinite;
+    -ms-animation: play-sleeping 2.4s steps(12) infinite;
+    -o-animation: play-sleeping 2.4s steps(12) infinite;
+    animation: play-sleeping 2.4s steps(12) infinite;
+}
+
+@-webkit-keyframes play-sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-moz-keyframes play-sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-ms-keyframes play-sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-o-keyframes play-sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@keyframes play-sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+
+.d2ce.smile {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/smile.png");
+
+    -webkit-animation: play-smile 1.6s steps(16) infinite;
+    -moz-animation: play-smile 1.6s steps(16) infinite;
+    -ms-animation: play-smile 1.6s steps(16) infinite;
+    -o-animation: play-smile 1.6s steps(16) infinite;
+    animation: play-smile 1.6s steps(16) infinite;
+}
+
+@-webkit-keyframes play-smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-moz-keyframes play-smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-ms-keyframes play-smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-o-keyframes play-smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@keyframes play-smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+
+.d2ce.surprise {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/surprise.png");
+
+    -webkit-animation: play-surprise 2.6s steps(26) infinite;
+    -moz-animation: play-surprise 2.6s steps(26) infinite;
+    -ms-animation: play-surprise 2.6s steps(26) infinite;
+    -o-animation: play-surprise 2.6s steps(26) infinite;
+    animation: play-surprise 2.6s steps(26) infinite;
+}
+
+@-webkit-keyframes play-surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@-moz-keyframes play-surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@-ms-keyframes play-surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@-o-keyframes play-surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@keyframes play-surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+

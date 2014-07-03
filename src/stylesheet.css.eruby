@@ -1,0 +1,40 @@
+<% emotes.each do |emote| %><% duration = (emote[:width]/32.to_i*emote[:delay]).round(1) %>
+.d2ce.<%= emote[:name] %> {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/<%= emote[:image] %>");
+
+    -webkit-animation: play-<%= emote[:name] %> <%= duration %>s steps(<%= emote[:width]/32 %>) infinite;
+    -moz-animation: play-<%= emote[:name] %> <%= duration %>s steps(<%= emote[:width]/32 %>) infinite;
+    -ms-animation: play-<%= emote[:name] %> <%= duration %>s steps(<%= emote[:width]/32 %>) infinite;
+    -o-animation: play-<%= emote[:name] %> <%= duration %>s steps(<%= emote[:width]/32 %>) infinite;
+    animation: play-<%= emote[:name] %> <%= duration %>s steps(<%= emote[:width]/32 %>) infinite;
+}
+
+@-webkit-keyframes play-<%= emote[:name] %> {
+    from { background-position: 0px; }
+    to { background-position: -<%= emote[:width] %>px; }
+}
+
+@-moz-keyframes play-<%= emote[:name] %> {
+    from { background-position: 0px; }
+    to { background-position: -<%= emote[:width] %>px; }
+}
+
+@-ms-keyframes play-<%= emote[:name] %> {
+    from { background-position: 0px; }
+    to { background-position: -<%= emote[:width] %>px; }
+}
+
+@-o-keyframes play-<%= emote[:name] %> {
+    from { background-position: 0px; }
+    to { background-position: -<%= emote[:width] %>px; }
+}
+
+@keyframes play-<%= emote[:name] %> {
+    from { background-position: 0px; }
+    to { background-position: -<%= emote[:width] %>px; }
+}
+
+<% end %>

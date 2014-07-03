@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Dota 2 Chat Emoticons CSS Animation Demo</title>
+
+        <link rel="stylesheet" type="text/css" href="assets/stylesheets/dota2-chat-emoticons.css">
+      <style type="text/css">
+        body {
+            background: lightgrey;
+        }
+      </style>
+    </head>
+
+    <body>
+    <h1>Dota 2 Chat Emoticons CSS Animation Demo</h1>
+    <% emotes.each do |e| %>
+        <i class="d2ce <%= e[:name] %>"></i>
+    <% end %>
+    </body>
+</html>
