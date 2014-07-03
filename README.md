@@ -89,7 +89,7 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:surprise:](assets/images/surprise-16.gif)
 ![:wink:](assets/images/wink-16.gif)
 
-## Installation
+## Installation & Usage
 
 Just copy the `assets` folder into your project and refer to the corresponding gifs in your HTML.
 
