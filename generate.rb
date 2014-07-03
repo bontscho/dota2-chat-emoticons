@@ -10,15 +10,15 @@ end
 
 images.each do |obj|
   image = obj[1]
-  cmd_split = "convert +repage src/emoticons/#{image["image_name"]} -crop 32x32 tmp/tiles.png"
+  cmd_split = "convert +repage assets/images/emoticons/#{image["image_name"]} -crop 32x32 tmp/tiles.png"
   system cmd_split
   cmd_rename = "for file in tmp/tiles-?.png; do mv $file tmp/tiles-0$(echo \"$file\" | cut -d'-' -f 2); done"
   system cmd_rename
 
   tick_delay = image["ms_per_frame"].to_i/10
 
-  cmd_assemble = "convert -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}.gif"
-  system cmd_assemble
+  cmd_assemble32 = "convert -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}.gif"
+  system cmd_assemble32
 
   cmd_assemble16 = "convert -resize 16x16 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-16.gif"
   system cmd_assemble16
