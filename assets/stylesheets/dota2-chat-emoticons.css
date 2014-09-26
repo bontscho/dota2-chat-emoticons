@@ -973,3 +973,237 @@
     to { background-position: -832px; }
 }
 
+
+.d2ce.aaaah {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/aaaah.png");
+
+    -webkit-animation: play-aaaah 1.8s steps(18) infinite;
+    -moz-animation: play-aaaah 1.8s steps(18) infinite;
+    -ms-animation: play-aaaah 1.8s steps(18) infinite;
+    -o-animation: play-aaaah 1.8s steps(18) infinite;
+    animation: play-aaaah 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-aaaah {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-aaaah {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-aaaah {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-aaaah {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-aaaah {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
+.d2ce.burn {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/burn.png");
+
+    -webkit-animation: play-burn 2.3s steps(23) infinite;
+    -moz-animation: play-burn 2.3s steps(23) infinite;
+    -ms-animation: play-burn 2.3s steps(23) infinite;
+    -o-animation: play-burn 2.3s steps(23) infinite;
+    animation: play-burn 2.3s steps(23) infinite;
+}
+
+@-webkit-keyframes play-burn {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-moz-keyframes play-burn {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-ms-keyframes play-burn {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-o-keyframes play-burn {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@keyframes play-burn {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+
+.d2ce.hide {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/hide.png");
+
+    -webkit-animation: play-hide 2.7s steps(27) infinite;
+    -moz-animation: play-hide 2.7s steps(27) infinite;
+    -ms-animation: play-hide 2.7s steps(27) infinite;
+    -o-animation: play-hide 2.7s steps(27) infinite;
+    animation: play-hide 2.7s steps(27) infinite;
+}
+
+@-webkit-keyframes play-hide {
+    from { background-position: 0px; }
+    to { background-position: -864px; }
+}
+
+@-moz-keyframes play-hide {
+    from { background-position: 0px; }
+    to { background-position: -864px; }
+}
+
+@-ms-keyframes play-hide {
+    from { background-position: 0px; }
+    to { background-position: -864px; }
+}
+
+@-o-keyframes play-hide {
+    from { background-position: 0px; }
+    to { background-position: -864px; }
+}
+
+@keyframes play-hide {
+    from { background-position: 0px; }
+    to { background-position: -864px; }
+}
+
+
+.d2ce.iceburn {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/iceburn.png");
+
+    -webkit-animation: play-iceburn 2.1s steps(21) infinite;
+    -moz-animation: play-iceburn 2.1s steps(21) infinite;
+    -ms-animation: play-iceburn 2.1s steps(21) infinite;
+    -o-animation: play-iceburn 2.1s steps(21) infinite;
+    animation: play-iceburn 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-iceburn {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-iceburn {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-iceburn {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-iceburn {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-iceburn {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.tears {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/tears.png");
+
+    -webkit-animation: play-tears 2.1s steps(21) infinite;
+    -moz-animation: play-tears 2.1s steps(21) infinite;
+    -ms-animation: play-tears 2.1s steps(21) infinite;
+    -o-animation: play-tears 2.1s steps(21) infinite;
+    animation: play-tears 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-tears {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-tears {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-tears {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-tears {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-tears {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.techies {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/techies.png");
+
+    -webkit-animation: play-techies 4.2s steps(42) infinite;
+    -moz-animation: play-techies 4.2s steps(42) infinite;
+    -ms-animation: play-techies 4.2s steps(42) infinite;
+    -o-animation: play-techies 4.2s steps(42) infinite;
+    animation: play-techies 4.2s steps(42) infinite;
+}
+
+@-webkit-keyframes play-techies {
+    from { background-position: 0px; }
+    to { background-position: -1344px; }
+}
+
+@-moz-keyframes play-techies {
+    from { background-position: 0px; }
+    to { background-position: -1344px; }
+}
+
+@-ms-keyframes play-techies {
+    from { background-position: 0px; }
+    to { background-position: -1344px; }
+}
+
+@-o-keyframes play-techies {
+    from { background-position: 0px; }
+    to { background-position: -1344px; }
+}
+
+@keyframes play-techies {
+    from { background-position: 0px; }
+    to { background-position: -1344px; }
+}
+
