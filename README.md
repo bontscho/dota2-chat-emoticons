@@ -7,7 +7,9 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 
 ### 32x32px
 
+![:aaaah:](assets/images/aaaah.gif)
 ![:blush:](assets/images/blush.gif)
+![:burn:](assets/images/burn.gif)
 ![:cheeky:](assets/images/cheeky.gif)
 ![:cool:](assets/images/cool.gif)
 ![:crazy:](assets/images/crazy.gif)
@@ -18,9 +20,11 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:happytears:](assets/images/happytears.gif)
 ![:haste:](assets/images/haste.gif)
 ![:hex:](assets/images/hex.gif)
+![:hide:](assets/images/hide.gif)
 ![:highfive:](assets/images/highfive.gif)
 ![:huh:](assets/images/huh.gif)
 ![:hush:](assets/images/hush.gif)
+![:iceburn:](assets/images/iceburn.gif)
 ![:illusion:](assets/images/illusion.gif)
 ![:invisibility:](assets/images/invisibility.gif)
 ![:laugh:](assets/images/laugh.gif)
@@ -31,11 +35,15 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:sleeping:](assets/images/sleeping.gif)
 ![:smile:](assets/images/smile.gif)
 ![:surprise:](assets/images/surprise.gif)
+![:tears:](assets/images/tears.gif)
+![:techies:](assets/images/techies.gif)
 ![:wink:](assets/images/wink.gif)
 
 ### 24x24px
 
+![:aaaah:](assets/images/aaaah-24.gif)
 ![:blush:](assets/images/blush-24.gif)
+![:burn:](assets/images/burn-24.gif)
 ![:cheeky:](assets/images/cheeky-24.gif)
 ![:cool:](assets/images/cool-24.gif)
 ![:crazy:](assets/images/crazy-24.gif)
@@ -46,9 +54,11 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:happytears:](assets/images/happytears-24.gif)
 ![:haste:](assets/images/haste-24.gif)
 ![:hex:](assets/images/hex-24.gif)
+![:hide:](assets/images/hide-24.gif)
 ![:highfive:](assets/images/highfive-24.gif)
 ![:huh:](assets/images/huh-24.gif)
 ![:hush:](assets/images/hush-24.gif)
+![:iceburn:](assets/images/iceburn-24.gif)
 ![:illusion:](assets/images/illusion-24.gif)
 ![:invisibility:](assets/images/invisibility-24.gif)
 ![:laugh:](assets/images/laugh-24.gif)
@@ -59,11 +69,15 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:sleeping:](assets/images/sleeping-24.gif)
 ![:smile:](assets/images/smile-24.gif)
 ![:surprise:](assets/images/surprise-24.gif)
+![:tears:](assets/images/tears-24.gif)
+![:techies:](assets/images/techies-24.gif)
 ![:wink:](assets/images/wink-24.gif)
 
 ### 16x16px
 
+![:aaaah:](assets/images/aaaah-16.gif)
 ![:blush:](assets/images/blush-16.gif)
+![:burn:](assets/images/burn-16.gif)
 ![:cheeky:](assets/images/cheeky-16.gif)
 ![:cool:](assets/images/cool-16.gif)
 ![:crazy:](assets/images/crazy-16.gif)
@@ -74,9 +88,11 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:happytears:](assets/images/happytears-16.gif)
 ![:haste:](assets/images/haste-16.gif)
 ![:hex:](assets/images/hex-16.gif)
+![:hide:](assets/images/hide-16.gif)
 ![:highfive:](assets/images/highfive-16.gif)
 ![:huh:](assets/images/huh-16.gif)
 ![:hush:](assets/images/hush-16.gif)
+![:iceburn:](assets/images/iceburn-16.gif)
 ![:illusion:](assets/images/illusion-16.gif)
 ![:invisibility:](assets/images/invisibility-16.gif)
 ![:laugh:](assets/images/laugh-16.gif)
@@ -87,6 +103,8 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:sleeping:](assets/images/sleeping-16.gif)
 ![:smile:](assets/images/smile-16.gif)
 ![:surprise:](assets/images/surprise-16.gif)
+![:tears:](assets/images/tears-16.gif)
+![:techies:](assets/images/techies-16.gif)
 ![:wink:](assets/images/wink-16.gif)
 
 ## Installation & Usage
