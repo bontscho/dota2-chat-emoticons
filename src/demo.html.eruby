@@ -15,5 +15,27 @@
     <% emotes.each do |e| %>
         <i class="d2ce <%= e[:name] %>"></i>
     <% end %>
+
+
+    <h1>GIF</h1>
+
+    <h2>32x32</h2>
+
+    <% emotes.each do |e| %>
+        <img src="assets/images/<%= e[:name] %>.gif">
+    <% end %>
+
+    <h2>24x24</h2>
+
+    <% emotes.each do |e| %>
+        <img src="assets/images/<%= e[:name] %>-24.gif">
+    <% end %>
+
+    <h2>16x16</h2>
+
+    <% emotes.each do |e| %>
+        <img src="assets/images/<%= e[:name] %>-16.gif">
+    <% end %>
+
     </body>
 </html>
