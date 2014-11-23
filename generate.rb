@@ -57,6 +57,15 @@ end
 
 puts "Generated: CSS Animation Demo HTML"
 
+readme = File.read('src/README.md.eruby')
+eruby = Erubis::Eruby.new(readme)
+
+File.open("README.md", "w") do |f|
+  f.write(eruby.result(:emotes=>emotes))
+end
+
+puts "Generated: README file"
+
 puts "Done!"
 
 #convert +repage src/resource/flash3/images/emoticons/blush.png -crop 32x32 tmp/tiles.png

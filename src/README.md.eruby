@@ -1,0 +1,60 @@
+Dota 2 Chat Emoticons
+====================
+
+The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF and CSS animation for the use on your website/forum/etc.
+
+## Demo
+
+### 32x32px
+
+<% emotes.each do |e| %>
+![:<%= e[:name] %>:](assets/images/<%= e[:name] %>.gif)
+<% end %>
+
+### 24x24px
+
+<% emotes.each do |e| %>
+![:<%= e[:name] %>:](assets/images/<%= e[:name] %>-24.gif)
+<% end %>
+
+### 16x16px
+
+<% emotes.each do |e| %>
+![:<%= e[:name] %>:](assets/images/<%= e[:name] %>-16.gif)
+<% end %>
+
+## Installation & Usage
+
+Just copy the `assets` folder into your project and refer to the corresponding gifs in your HTML.
+
+To use the CSS animation version with the PNGs embed the `assets/stylesheets/dota2-chat-emoticons.css` into your HTML and use like this:
+
+```html
+<i class="d2ce wink"></i>
+<i class="d2ce blush"></i>
+<i class="d2ce cheeky"></i>
+...
+```
+
+> **Recommendation**: For highest quality, use the CSS Animation since PNG supports alpha.
+
+## Update Workflow
+
+In case Valve adds more emoticons:
+
+You will need graphicscmagick/imagemagick (`apt-get install graphicsmagick` on Debian/Ubuntu) and Ruby (get it e.g. via [rvm.io](http://rvm.io)) to run the generator.
+
+1. Extract `scripts/emoticons.txt` from Dota 2 pak files and export to `src/scripts/emoticons.txt`
+3. Extract `resource/flash3/images/emoticons` from Dota 2 pak files to `assets/images/emoticons`
+4. Run `bundle` to get the required packages for the generator
+5. Run `ruby generator.rb`
+
+> **Important**: If you plan to update this README, update the file `src/README.md.eruby` since the README will be generated from it
+
+### Tools
+
+Tools I used: [Gibbeds VPK Extractor](https://developer.valvesoftware.com/wiki/Gibbeds_VPK_Extractor)
+
+Full List of Third Party Tools: https://developer.valvesoftware.com/wiki/Category:Third_Party_Tools
+
+All game images and names are property of Valve Corporation.
