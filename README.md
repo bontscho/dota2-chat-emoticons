@@ -50,6 +50,16 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:ti4gold:](assets/images/ti4gold.gif)
 ![:ti4platinum:](assets/images/ti4platinum.gif)
 ![:ti4diamond:](assets/images/ti4diamond.gif)
+![:dac15_sad:](assets/images/dac15_sad.gif)
+![:dac15_surprise:](assets/images/dac15_surprise.gif)
+![:dac15_upset:](assets/images/dac15_upset.gif)
+![:dac15_angry:](assets/images/dac15_angry.gif)
+![:dac15_embarrass:](assets/images/dac15_embarrass.gif)
+![:dac15_fade:](assets/images/dac15_fade.gif)
+![:dac15_fantastic:](assets/images/dac15_fantastic.gif)
+![:dac15_tired:](assets/images/dac15_tired.gif)
+![:dac15_water:](assets/images/dac15_water.gif)
+![:pup:](assets/images/pup.gif)
 
 ### 24x24px
 
@@ -96,6 +106,16 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:ti4gold:](assets/images/ti4gold-24.gif)
 ![:ti4platinum:](assets/images/ti4platinum-24.gif)
 ![:ti4diamond:](assets/images/ti4diamond-24.gif)
+![:dac15_sad:](assets/images/dac15_sad-24.gif)
+![:dac15_surprise:](assets/images/dac15_surprise-24.gif)
+![:dac15_upset:](assets/images/dac15_upset-24.gif)
+![:dac15_angry:](assets/images/dac15_angry-24.gif)
+![:dac15_embarrass:](assets/images/dac15_embarrass-24.gif)
+![:dac15_fade:](assets/images/dac15_fade-24.gif)
+![:dac15_fantastic:](assets/images/dac15_fantastic-24.gif)
+![:dac15_tired:](assets/images/dac15_tired-24.gif)
+![:dac15_water:](assets/images/dac15_water-24.gif)
+![:pup:](assets/images/pup-24.gif)
 
 ### 16x16px
 
@@ -142,6 +162,16 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:ti4gold:](assets/images/ti4gold-16.gif)
 ![:ti4platinum:](assets/images/ti4platinum-16.gif)
 ![:ti4diamond:](assets/images/ti4diamond-16.gif)
+![:dac15_sad:](assets/images/dac15_sad-16.gif)
+![:dac15_surprise:](assets/images/dac15_surprise-16.gif)
+![:dac15_upset:](assets/images/dac15_upset-16.gif)
+![:dac15_angry:](assets/images/dac15_angry-16.gif)
+![:dac15_embarrass:](assets/images/dac15_embarrass-16.gif)
+![:dac15_fade:](assets/images/dac15_fade-16.gif)
+![:dac15_fantastic:](assets/images/dac15_fantastic-16.gif)
+![:dac15_tired:](assets/images/dac15_tired-16.gif)
+![:dac15_water:](assets/images/dac15_water-16.gif)
+![:pup:](assets/images/pup-16.gif)
 
 ## Installation & Usage
 

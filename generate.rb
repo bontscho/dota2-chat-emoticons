@@ -22,7 +22,8 @@ images.each do |obj|
   cmd_assemble32 = "convert -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}.gif"
   system cmd_assemble32
 
-  cmd_assemble16 = "convert -resize 16x16 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-16.gif"
+  # -sample instead of -resize fixes losing transparency on 16x16, see http://www.imagemagick.org/discourse-server/viewtopic.php?t=19787
+  cmd_assemble16 = "convert -sample 16x16 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-16.gif"
   system cmd_assemble16
 
   cmd_assemble24 = "convert -resize 24x24 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-24.gif"
