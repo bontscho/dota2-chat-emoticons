@@ -17,19 +17,35 @@
         <i class="d2ce <%= e[:name] %>"></i>
     <% end %>
 
+<<<<<<< HEAD
     <h1>GIF</h1>
 
     <h2>32x32</h2>
+=======
+
+    <h1>GIF</h1>
+
+    <h2>32x32</h2>
+
+>>>>>>> c744673384f4ffafa4c8ae5626ea5bd122b01776
     <% emotes.each do |e| %>
         <img src="assets/images/<%= e[:name] %>.gif">
     <% end %>
 
     <h2>24x24</h2>
+<<<<<<< HEAD
+=======
+
+>>>>>>> c744673384f4ffafa4c8ae5626ea5bd122b01776
     <% emotes.each do |e| %>
         <img src="assets/images/<%= e[:name] %>-24.gif">
     <% end %>
 
     <h2>16x16</h2>
+<<<<<<< HEAD
+=======
+
+>>>>>>> c744673384f4ffafa4c8ae5626ea5bd122b01776
     <% emotes.each do |e| %>
         <img src="assets/images/<%= e[:name] %>-16.gif">
     <% end %>
