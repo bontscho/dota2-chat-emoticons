@@ -2065,3 +2065,198 @@
     to { background-position: -1664px; }
 }
 
+
+.d2ce.bts_bristle {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/bts3_bristle.png");
+
+    -webkit-animation: play-bts_bristle 2.1s steps(21) infinite;
+    -moz-animation: play-bts_bristle 2.1s steps(21) infinite;
+    -ms-animation: play-bts_bristle 2.1s steps(21) infinite;
+    -o-animation: play-bts_bristle 2.1s steps(21) infinite;
+    animation: play-bts_bristle 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-bts_bristle {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-bts_bristle {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-bts_bristle {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-bts_bristle {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-bts_bristle {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.bts_godz {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/bts3_godz.png");
+
+    -webkit-animation: play-bts_godz 2.3s steps(23) infinite;
+    -moz-animation: play-bts_godz 2.3s steps(23) infinite;
+    -ms-animation: play-bts_godz 2.3s steps(23) infinite;
+    -o-animation: play-bts_godz 2.3s steps(23) infinite;
+    animation: play-bts_godz 2.3s steps(23) infinite;
+}
+
+@-webkit-keyframes play-bts_godz {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-moz-keyframes play-bts_godz {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-ms-keyframes play-bts_godz {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-o-keyframes play-bts_godz {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@keyframes play-bts_godz {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+
+.d2ce.bts_lina {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/bts3_lina.png");
+
+    -webkit-animation: play-bts_lina 1.9s steps(19) infinite;
+    -moz-animation: play-bts_lina 1.9s steps(19) infinite;
+    -ms-animation: play-bts_lina 1.9s steps(19) infinite;
+    -o-animation: play-bts_lina 1.9s steps(19) infinite;
+    animation: play-bts_lina 1.9s steps(19) infinite;
+}
+
+@-webkit-keyframes play-bts_lina {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-moz-keyframes play-bts_lina {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-ms-keyframes play-bts_lina {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-o-keyframes play-bts_lina {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@keyframes play-bts_lina {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+
+.d2ce.bts_merlini {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/bts3_merlini.png");
+
+    -webkit-animation: play-bts_merlini 3.3s steps(33) infinite;
+    -moz-animation: play-bts_merlini 3.3s steps(33) infinite;
+    -ms-animation: play-bts_merlini 3.3s steps(33) infinite;
+    -o-animation: play-bts_merlini 3.3s steps(33) infinite;
+    animation: play-bts_merlini 3.3s steps(33) infinite;
+}
+
+@-webkit-keyframes play-bts_merlini {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@-moz-keyframes play-bts_merlini {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@-ms-keyframes play-bts_merlini {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@-o-keyframes play-bts_merlini {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@keyframes play-bts_merlini {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+
+.d2ce.bts_rosh {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/bts3_rosh.png");
+
+    -webkit-animation: play-bts_rosh 3.3s steps(33) infinite;
+    -moz-animation: play-bts_rosh 3.3s steps(33) infinite;
+    -ms-animation: play-bts_rosh 3.3s steps(33) infinite;
+    -o-animation: play-bts_rosh 3.3s steps(33) infinite;
+    animation: play-bts_rosh 3.3s steps(33) infinite;
+}
+
+@-webkit-keyframes play-bts_rosh {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@-moz-keyframes play-bts_rosh {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@-ms-keyframes play-bts_rosh {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@-o-keyframes play-bts_rosh {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+
+@keyframes play-bts_rosh {
+    from { background-position: 0px; }
+    to { background-position: -1056px; }
+}
+

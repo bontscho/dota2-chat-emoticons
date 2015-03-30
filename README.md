@@ -60,6 +60,11 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:dac15_tired:](assets/images/dac15_tired.gif)
 ![:dac15_water:](assets/images/dac15_water.gif)
 ![:pup:](assets/images/pup.gif)
+![:bts_bristle:](assets/images/bts_bristle.gif)
+![:bts_godz:](assets/images/bts_godz.gif)
+![:bts_lina:](assets/images/bts_lina.gif)
+![:bts_merlini:](assets/images/bts_merlini.gif)
+![:bts_rosh:](assets/images/bts_rosh.gif)
 
 ### 24x24px
 
@@ -116,6 +121,11 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:dac15_tired:](assets/images/dac15_tired-24.gif)
 ![:dac15_water:](assets/images/dac15_water-24.gif)
 ![:pup:](assets/images/pup-24.gif)
+![:bts_bristle:](assets/images/bts_bristle-24.gif)
+![:bts_godz:](assets/images/bts_godz-24.gif)
+![:bts_lina:](assets/images/bts_lina-24.gif)
+![:bts_merlini:](assets/images/bts_merlini-24.gif)
+![:bts_rosh:](assets/images/bts_rosh-24.gif)
 
 ### 16x16px
 
@@ -172,6 +182,11 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:dac15_tired:](assets/images/dac15_tired-16.gif)
 ![:dac15_water:](assets/images/dac15_water-16.gif)
 ![:pup:](assets/images/pup-16.gif)
+![:bts_bristle:](assets/images/bts_bristle-16.gif)
+![:bts_godz:](assets/images/bts_godz-16.gif)
+![:bts_lina:](assets/images/bts_lina-16.gif)
+![:bts_merlini:](assets/images/bts_merlini-16.gif)
+![:bts_rosh:](assets/images/bts_rosh-16.gif)
 
 ## Installation & Usage
 
