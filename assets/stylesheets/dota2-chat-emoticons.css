@@ -1676,42 +1676,42 @@
 }
 
 
-.d2ce.dac15_sad {
+.d2ce.dac15_blush {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_sad.png");
+    background-image: url("../images/emoticons/dac15_blush.png");
 
-    -webkit-animation: play-dac15_sad 2.5s steps(25) infinite;
-    -moz-animation: play-dac15_sad 2.5s steps(25) infinite;
-    -ms-animation: play-dac15_sad 2.5s steps(25) infinite;
-    -o-animation: play-dac15_sad 2.5s steps(25) infinite;
-    animation: play-dac15_sad 2.5s steps(25) infinite;
+    -webkit-animation: play-dac15_blush 3.6s steps(36) infinite;
+    -moz-animation: play-dac15_blush 3.6s steps(36) infinite;
+    -ms-animation: play-dac15_blush 3.6s steps(36) infinite;
+    -o-animation: play-dac15_blush 3.6s steps(36) infinite;
+    animation: play-dac15_blush 3.6s steps(36) infinite;
 }
 
-@-webkit-keyframes play-dac15_sad {
+@-webkit-keyframes play-dac15_blush {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -1152px; }
 }
 
-@-moz-keyframes play-dac15_sad {
+@-moz-keyframes play-dac15_blush {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -1152px; }
 }
 
-@-ms-keyframes play-dac15_sad {
+@-ms-keyframes play-dac15_blush {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -1152px; }
 }
 
-@-o-keyframes play-dac15_sad {
+@-o-keyframes play-dac15_blush {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -1152px; }
 }
 
-@keyframes play-dac15_sad {
+@keyframes play-dac15_blush {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -1152px; }
 }
 
 
@@ -1721,309 +1721,309 @@
     display: inline-block;
     background-image: url("../images/emoticons/dac15_surprise.png");
 
-    -webkit-animation: play-dac15_surprise 0.9s steps(9) infinite;
-    -moz-animation: play-dac15_surprise 0.9s steps(9) infinite;
-    -ms-animation: play-dac15_surprise 0.9s steps(9) infinite;
-    -o-animation: play-dac15_surprise 0.9s steps(9) infinite;
-    animation: play-dac15_surprise 0.9s steps(9) infinite;
+    -webkit-animation: play-dac15_surprise 1.4s steps(14) infinite;
+    -moz-animation: play-dac15_surprise 1.4s steps(14) infinite;
+    -ms-animation: play-dac15_surprise 1.4s steps(14) infinite;
+    -o-animation: play-dac15_surprise 1.4s steps(14) infinite;
+    animation: play-dac15_surprise 1.4s steps(14) infinite;
 }
 
 @-webkit-keyframes play-dac15_surprise {
     from { background-position: 0px; }
-    to { background-position: -288px; }
+    to { background-position: -448px; }
 }
 
 @-moz-keyframes play-dac15_surprise {
     from { background-position: 0px; }
-    to { background-position: -288px; }
+    to { background-position: -448px; }
 }
 
 @-ms-keyframes play-dac15_surprise {
     from { background-position: 0px; }
-    to { background-position: -288px; }
+    to { background-position: -448px; }
 }
 
 @-o-keyframes play-dac15_surprise {
     from { background-position: 0px; }
-    to { background-position: -288px; }
+    to { background-position: -448px; }
 }
 
 @keyframes play-dac15_surprise {
     from { background-position: 0px; }
-    to { background-position: -288px; }
+    to { background-position: -448px; }
 }
 
 
-.d2ce.dac15_upset {
+.d2ce.dac15_cool {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_upset.png");
+    background-image: url("../images/emoticons/dac15_cool.png");
 
-    -webkit-animation: play-dac15_upset 1.6s steps(16) infinite;
-    -moz-animation: play-dac15_upset 1.6s steps(16) infinite;
-    -ms-animation: play-dac15_upset 1.6s steps(16) infinite;
-    -o-animation: play-dac15_upset 1.6s steps(16) infinite;
-    animation: play-dac15_upset 1.6s steps(16) infinite;
+    -webkit-animation: play-dac15_cool 1.9s steps(19) infinite;
+    -moz-animation: play-dac15_cool 1.9s steps(19) infinite;
+    -ms-animation: play-dac15_cool 1.9s steps(19) infinite;
+    -o-animation: play-dac15_cool 1.9s steps(19) infinite;
+    animation: play-dac15_cool 1.9s steps(19) infinite;
 }
 
-@-webkit-keyframes play-dac15_upset {
+@-webkit-keyframes play-dac15_cool {
     from { background-position: 0px; }
-    to { background-position: -512px; }
+    to { background-position: -608px; }
 }
 
-@-moz-keyframes play-dac15_upset {
+@-moz-keyframes play-dac15_cool {
     from { background-position: 0px; }
-    to { background-position: -512px; }
+    to { background-position: -608px; }
 }
 
-@-ms-keyframes play-dac15_upset {
+@-ms-keyframes play-dac15_cool {
     from { background-position: 0px; }
-    to { background-position: -512px; }
+    to { background-position: -608px; }
 }
 
-@-o-keyframes play-dac15_upset {
+@-o-keyframes play-dac15_cool {
     from { background-position: 0px; }
-    to { background-position: -512px; }
+    to { background-position: -608px; }
 }
 
-@keyframes play-dac15_upset {
+@keyframes play-dac15_cool {
     from { background-position: 0px; }
-    to { background-position: -512px; }
+    to { background-position: -608px; }
 }
 
 
-.d2ce.dac15_angry {
+.d2ce.dac15_duel {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_angry.png");
+    background-image: url("../images/emoticons/dac15_duel.png");
 
-    -webkit-animation: play-dac15_angry 1.4s steps(14) infinite;
-    -moz-animation: play-dac15_angry 1.4s steps(14) infinite;
-    -ms-animation: play-dac15_angry 1.4s steps(14) infinite;
-    -o-animation: play-dac15_angry 1.4s steps(14) infinite;
-    animation: play-dac15_angry 1.4s steps(14) infinite;
+    -webkit-animation: play-dac15_duel 2.8s steps(28) infinite;
+    -moz-animation: play-dac15_duel 2.8s steps(28) infinite;
+    -ms-animation: play-dac15_duel 2.8s steps(28) infinite;
+    -o-animation: play-dac15_duel 2.8s steps(28) infinite;
+    animation: play-dac15_duel 2.8s steps(28) infinite;
 }
 
-@-webkit-keyframes play-dac15_angry {
+@-webkit-keyframes play-dac15_duel {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -896px; }
 }
 
-@-moz-keyframes play-dac15_angry {
+@-moz-keyframes play-dac15_duel {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -896px; }
 }
 
-@-ms-keyframes play-dac15_angry {
+@-ms-keyframes play-dac15_duel {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -896px; }
 }
 
-@-o-keyframes play-dac15_angry {
+@-o-keyframes play-dac15_duel {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -896px; }
 }
 
-@keyframes play-dac15_angry {
+@keyframes play-dac15_duel {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -896px; }
 }
 
 
-.d2ce.dac15_embarrass {
+.d2ce.dac15_frog {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_embarrass.png");
+    background-image: url("../images/emoticons/dac15_frog.png");
 
-    -webkit-animation: play-dac15_embarrass 2.9s steps(29) infinite;
-    -moz-animation: play-dac15_embarrass 2.9s steps(29) infinite;
-    -ms-animation: play-dac15_embarrass 2.9s steps(29) infinite;
-    -o-animation: play-dac15_embarrass 2.9s steps(29) infinite;
-    animation: play-dac15_embarrass 2.9s steps(29) infinite;
+    -webkit-animation: play-dac15_frog 1.5s steps(15) infinite;
+    -moz-animation: play-dac15_frog 1.5s steps(15) infinite;
+    -ms-animation: play-dac15_frog 1.5s steps(15) infinite;
+    -o-animation: play-dac15_frog 1.5s steps(15) infinite;
+    animation: play-dac15_frog 1.5s steps(15) infinite;
 }
 
-@-webkit-keyframes play-dac15_embarrass {
+@-webkit-keyframes play-dac15_frog {
     from { background-position: 0px; }
-    to { background-position: -928px; }
+    to { background-position: -480px; }
 }
 
-@-moz-keyframes play-dac15_embarrass {
+@-moz-keyframes play-dac15_frog {
     from { background-position: 0px; }
-    to { background-position: -928px; }
+    to { background-position: -480px; }
 }
 
-@-ms-keyframes play-dac15_embarrass {
+@-ms-keyframes play-dac15_frog {
     from { background-position: 0px; }
-    to { background-position: -928px; }
+    to { background-position: -480px; }
 }
 
-@-o-keyframes play-dac15_embarrass {
+@-o-keyframes play-dac15_frog {
     from { background-position: 0px; }
-    to { background-position: -928px; }
+    to { background-position: -480px; }
 }
 
-@keyframes play-dac15_embarrass {
+@keyframes play-dac15_frog {
     from { background-position: 0px; }
-    to { background-position: -928px; }
+    to { background-position: -480px; }
 }
 
 
-.d2ce.dac15_fade {
+.d2ce.dac15_face {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_fade.png");
+    background-image: url("../images/emoticons/dac15_face.png");
 
-    -webkit-animation: play-dac15_fade 2.1s steps(21) infinite;
-    -moz-animation: play-dac15_fade 2.1s steps(21) infinite;
-    -ms-animation: play-dac15_fade 2.1s steps(21) infinite;
-    -o-animation: play-dac15_fade 2.1s steps(21) infinite;
-    animation: play-dac15_fade 2.1s steps(21) infinite;
+    -webkit-animation: play-dac15_face 3.1s steps(31) infinite;
+    -moz-animation: play-dac15_face 3.1s steps(31) infinite;
+    -ms-animation: play-dac15_face 3.1s steps(31) infinite;
+    -o-animation: play-dac15_face 3.1s steps(31) infinite;
+    animation: play-dac15_face 3.1s steps(31) infinite;
 }
 
-@-webkit-keyframes play-dac15_fade {
+@-webkit-keyframes play-dac15_face {
     from { background-position: 0px; }
-    to { background-position: -672px; }
+    to { background-position: -992px; }
 }
 
-@-moz-keyframes play-dac15_fade {
+@-moz-keyframes play-dac15_face {
     from { background-position: 0px; }
-    to { background-position: -672px; }
+    to { background-position: -992px; }
 }
 
-@-ms-keyframes play-dac15_fade {
+@-ms-keyframes play-dac15_face {
     from { background-position: 0px; }
-    to { background-position: -672px; }
+    to { background-position: -992px; }
 }
 
-@-o-keyframes play-dac15_fade {
+@-o-keyframes play-dac15_face {
     from { background-position: 0px; }
-    to { background-position: -672px; }
+    to { background-position: -992px; }
 }
 
-@keyframes play-dac15_fade {
+@keyframes play-dac15_face {
     from { background-position: 0px; }
-    to { background-position: -672px; }
+    to { background-position: -992px; }
 }
 
 
-.d2ce.dac15_fantastic {
+.d2ce.dac15_nosewipe {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_fantastic.png");
+    background-image: url("../images/emoticons/dac15_nosewipe.png");
 
-    -webkit-animation: play-dac15_fantastic 2.4s steps(24) infinite;
-    -moz-animation: play-dac15_fantastic 2.4s steps(24) infinite;
-    -ms-animation: play-dac15_fantastic 2.4s steps(24) infinite;
-    -o-animation: play-dac15_fantastic 2.4s steps(24) infinite;
-    animation: play-dac15_fantastic 2.4s steps(24) infinite;
+    -webkit-animation: play-dac15_nosewipe 2.2s steps(22) infinite;
+    -moz-animation: play-dac15_nosewipe 2.2s steps(22) infinite;
+    -ms-animation: play-dac15_nosewipe 2.2s steps(22) infinite;
+    -o-animation: play-dac15_nosewipe 2.2s steps(22) infinite;
+    animation: play-dac15_nosewipe 2.2s steps(22) infinite;
 }
 
-@-webkit-keyframes play-dac15_fantastic {
+@-webkit-keyframes play-dac15_nosewipe {
     from { background-position: 0px; }
-    to { background-position: -768px; }
+    to { background-position: -704px; }
 }
 
-@-moz-keyframes play-dac15_fantastic {
+@-moz-keyframes play-dac15_nosewipe {
     from { background-position: 0px; }
-    to { background-position: -768px; }
+    to { background-position: -704px; }
 }
 
-@-ms-keyframes play-dac15_fantastic {
+@-ms-keyframes play-dac15_nosewipe {
     from { background-position: 0px; }
-    to { background-position: -768px; }
+    to { background-position: -704px; }
 }
 
-@-o-keyframes play-dac15_fantastic {
+@-o-keyframes play-dac15_nosewipe {
     from { background-position: 0px; }
-    to { background-position: -768px; }
+    to { background-position: -704px; }
 }
 
-@keyframes play-dac15_fantastic {
+@keyframes play-dac15_nosewipe {
     from { background-position: 0px; }
-    to { background-position: -768px; }
+    to { background-position: -704px; }
 }
 
 
-.d2ce.dac15_tired {
+.d2ce.dac15_stab {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_tired.png");
+    background-image: url("../images/emoticons/dac15_stab.png");
 
-    -webkit-animation: play-dac15_tired 2.5s steps(25) infinite;
-    -moz-animation: play-dac15_tired 2.5s steps(25) infinite;
-    -ms-animation: play-dac15_tired 2.5s steps(25) infinite;
-    -o-animation: play-dac15_tired 2.5s steps(25) infinite;
-    animation: play-dac15_tired 2.5s steps(25) infinite;
+    -webkit-animation: play-dac15_stab 2.6s steps(26) infinite;
+    -moz-animation: play-dac15_stab 2.6s steps(26) infinite;
+    -ms-animation: play-dac15_stab 2.6s steps(26) infinite;
+    -o-animation: play-dac15_stab 2.6s steps(26) infinite;
+    animation: play-dac15_stab 2.6s steps(26) infinite;
 }
 
-@-webkit-keyframes play-dac15_tired {
+@-webkit-keyframes play-dac15_stab {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -832px; }
 }
 
-@-moz-keyframes play-dac15_tired {
+@-moz-keyframes play-dac15_stab {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -832px; }
 }
 
-@-ms-keyframes play-dac15_tired {
+@-ms-keyframes play-dac15_stab {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -832px; }
 }
 
-@-o-keyframes play-dac15_tired {
+@-o-keyframes play-dac15_stab {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -832px; }
 }
 
-@keyframes play-dac15_tired {
+@keyframes play-dac15_stab {
     from { background-position: 0px; }
-    to { background-position: -800px; }
+    to { background-position: -832px; }
 }
 
 
-.d2ce.dac15_water {
+.d2ce.dac15_transform {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/dac15_water.png");
+    background-image: url("../images/emoticons/dac15_transform.png");
 
-    -webkit-animation: play-dac15_water 1.4s steps(14) infinite;
-    -moz-animation: play-dac15_water 1.4s steps(14) infinite;
-    -ms-animation: play-dac15_water 1.4s steps(14) infinite;
-    -o-animation: play-dac15_water 1.4s steps(14) infinite;
-    animation: play-dac15_water 1.4s steps(14) infinite;
+    -webkit-animation: play-dac15_transform 3.8s steps(38) infinite;
+    -moz-animation: play-dac15_transform 3.8s steps(38) infinite;
+    -ms-animation: play-dac15_transform 3.8s steps(38) infinite;
+    -o-animation: play-dac15_transform 3.8s steps(38) infinite;
+    animation: play-dac15_transform 3.8s steps(38) infinite;
 }
 
-@-webkit-keyframes play-dac15_water {
+@-webkit-keyframes play-dac15_transform {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -1216px; }
 }
 
-@-moz-keyframes play-dac15_water {
+@-moz-keyframes play-dac15_transform {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -1216px; }
 }
 
-@-ms-keyframes play-dac15_water {
+@-ms-keyframes play-dac15_transform {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -1216px; }
 }
 
-@-o-keyframes play-dac15_water {
+@-o-keyframes play-dac15_transform {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -1216px; }
 }
 
-@keyframes play-dac15_water {
+@keyframes play-dac15_transform {
     from { background-position: 0px; }
-    to { background-position: -448px; }
+    to { background-position: -1216px; }
 }
 
 
