@@ -1,40 +1,57 @@
-require 'vdf4r'
+require 'json'
+require 'rake'
+require 'open-uri'
 require 'erubis'
 
 images = nil
+repo = "https://raw.githubusercontent.com/dotabuff/d2vpk/master"
 
-File.open('src/scripts/emoticons.txt') do |file|
-  parser = VDF4R::Parser.new(file)
-  images = parser.parse["emoticons"]
+open("#{repo}/json/dota_pak01/scripts/emoticons.json") do |file|
+  parsed = JSON.parse(file.read)
+  images = parsed["emoticons"]
 end
 
 emotes = []
 
-images.each do |obj|
-  image = obj[1]
-  cmd_split = "convert +repage assets/images/emoticons/#{image["image_name"]} -crop 32x32 tmp/tiles.png"
-  system cmd_split
+images.each do |image|
+  image_name = image["image_name"]
+  alias_name = image["aliases"].first
+  source = "assets/images/emoticons/#{image_name}"
+
+  unless File.file?(source)
+    source_url = "#{repo}/dota_pak01/resource/flash3/images/emoticons/#{image_name}"
+    open(source_url, 'rb') do |from|
+      open(source, 'wb') do |to|
+        puts "Downloading: #{source_url} => #{source}..."
+        len = IO.copy_stream(from, to)
+        puts "Copied #{len} bytes"
+      end
+    end
+  end
+
+  cmd_split = "convert +repage '#{source}' -crop 32x32 tmp/tiles.png"
+  sh cmd_split
   cmd_rename = "for file in tmp/tiles-?.png; do mv $file tmp/tiles-0$(echo \"$file\" | cut -d'-' -f 2); done"
   system cmd_rename
 
   tick_delay = image["ms_per_frame"].to_i/10
 
-  cmd_assemble32 = "convert -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}.gif"
-  system cmd_assemble32
+  cmd_assemble32 = "convert -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{alias_name}.gif"
+  sh cmd_assemble32
 
   # -sample instead of -resize fixes losing transparency on 16x16, see http://www.imagemagick.org/discourse-server/viewtopic.php?t=19787
-  cmd_assemble16 = "convert -sample 16x16 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-16.gif"
-  system cmd_assemble16
+  cmd_assemble16 = "convert -sample 16x16 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{alias_name}-16.gif"
+  sh cmd_assemble16
 
-  cmd_assemble24 = "convert -resize 24x24 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{image["aliases"]["0"]}-24.gif"
-  system cmd_assemble24
+  cmd_assemble24 = "convert -resize 24x24 -dispose 2 +repage -delay #{tick_delay} -loop 0 tmp/*.png assets/images/#{alias_name}-24.gif"
+  sh cmd_assemble24
 
-  system "rm tmp/*.png"
-  puts "Generated: #{image["aliases"]["0"]}.gif"
+  sh "rm tmp/*.png"
+  puts "Generated: #{alias_name}.gif"
   emotes << {
-      name: image["aliases"]["0"],
-      image: image["image_name"],
-      width: `identify -format "%w" assets/images/emoticons/#{image["image_name"]}`.to_i,
+      name: alias_name,
+      image: image_name,
+      width: `identify -format "%w" assets/images/emoticons/#{image_name}`.to_i,
       delay: image["ms_per_frame"].to_f/1000
   }
 end
