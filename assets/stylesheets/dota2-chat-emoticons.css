@@ -3079,3 +3079,783 @@
     to { background-position: -864px; }
 }
 
+
+.d2ce.charm_blush {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/blush_ti5_charm.png");
+
+    -webkit-animation: play-charm_blush 1.7s steps(17) infinite;
+    -moz-animation: play-charm_blush 1.7s steps(17) infinite;
+    -ms-animation: play-charm_blush 1.7s steps(17) infinite;
+    -o-animation: play-charm_blush 1.7s steps(17) infinite;
+    animation: play-charm_blush 1.7s steps(17) infinite;
+}
+
+@-webkit-keyframes play-charm_blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-moz-keyframes play-charm_blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-ms-keyframes play-charm_blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-o-keyframes play-charm_blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@keyframes play-charm_blush {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+
+.d2ce.charm_cheeky {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/cheeky_ti5_charm.png");
+
+    -webkit-animation: play-charm_cheeky 2.1s steps(21) infinite;
+    -moz-animation: play-charm_cheeky 2.1s steps(21) infinite;
+    -ms-animation: play-charm_cheeky 2.1s steps(21) infinite;
+    -o-animation: play-charm_cheeky 2.1s steps(21) infinite;
+    animation: play-charm_cheeky 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-charm_cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-charm_cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-charm_cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-charm_cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-charm_cheeky {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.charm_cool {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/cool_ti5_charm.png");
+
+    -webkit-animation: play-charm_cool 2.0s steps(20) infinite;
+    -moz-animation: play-charm_cool 2.0s steps(20) infinite;
+    -ms-animation: play-charm_cool 2.0s steps(20) infinite;
+    -o-animation: play-charm_cool 2.0s steps(20) infinite;
+    animation: play-charm_cool 2.0s steps(20) infinite;
+}
+
+@-webkit-keyframes play-charm_cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@-moz-keyframes play-charm_cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@-ms-keyframes play-charm_cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@-o-keyframes play-charm_cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+@keyframes play-charm_cool {
+    from { background-position: 0px; }
+    to { background-position: -640px; }
+}
+
+
+.d2ce.charm_crazy {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/crazy_ti5_charm.png");
+
+    -webkit-animation: play-charm_crazy 0.6s steps(6) infinite;
+    -moz-animation: play-charm_crazy 0.6s steps(6) infinite;
+    -ms-animation: play-charm_crazy 0.6s steps(6) infinite;
+    -o-animation: play-charm_crazy 0.6s steps(6) infinite;
+    animation: play-charm_crazy 0.6s steps(6) infinite;
+}
+
+@-webkit-keyframes play-charm_crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@-moz-keyframes play-charm_crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@-ms-keyframes play-charm_crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@-o-keyframes play-charm_crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+@keyframes play-charm_crazy {
+    from { background-position: 0px; }
+    to { background-position: -192px; }
+}
+
+
+.d2ce.charm_cry {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/cry_ti5_charm.png");
+
+    -webkit-animation: play-charm_cry 2.2s steps(22) infinite;
+    -moz-animation: play-charm_cry 2.2s steps(22) infinite;
+    -ms-animation: play-charm_cry 2.2s steps(22) infinite;
+    -o-animation: play-charm_cry 2.2s steps(22) infinite;
+    animation: play-charm_cry 2.2s steps(22) infinite;
+}
+
+@-webkit-keyframes play-charm_cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-moz-keyframes play-charm_cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-ms-keyframes play-charm_cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-o-keyframes play-charm_cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@keyframes play-charm_cry {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+
+.d2ce.charm_disapprove {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/disaprove_ti5_charm.png");
+
+    -webkit-animation: play-charm_disapprove 2.1s steps(21) infinite;
+    -moz-animation: play-charm_disapprove 2.1s steps(21) infinite;
+    -ms-animation: play-charm_disapprove 2.1s steps(21) infinite;
+    -o-animation: play-charm_disapprove 2.1s steps(21) infinite;
+    animation: play-charm_disapprove 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-charm_disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-charm_disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-charm_disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-charm_disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-charm_disapprove {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.charm_facepalm {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/facepalm_ti5_charm.png");
+
+    -webkit-animation: play-charm_facepalm 2.4s steps(24) infinite;
+    -moz-animation: play-charm_facepalm 2.4s steps(24) infinite;
+    -ms-animation: play-charm_facepalm 2.4s steps(24) infinite;
+    -o-animation: play-charm_facepalm 2.4s steps(24) infinite;
+    animation: play-charm_facepalm 2.4s steps(24) infinite;
+}
+
+@-webkit-keyframes play-charm_facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-moz-keyframes play-charm_facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-ms-keyframes play-charm_facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-o-keyframes play-charm_facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@keyframes play-charm_facepalm {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+
+.d2ce.charm_happytears {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/happytears_ti5_charm.png");
+
+    -webkit-animation: play-charm_happytears 1.3s steps(13) infinite;
+    -moz-animation: play-charm_happytears 1.3s steps(13) infinite;
+    -ms-animation: play-charm_happytears 1.3s steps(13) infinite;
+    -o-animation: play-charm_happytears 1.3s steps(13) infinite;
+    animation: play-charm_happytears 1.3s steps(13) infinite;
+}
+
+@-webkit-keyframes play-charm_happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-moz-keyframes play-charm_happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-ms-keyframes play-charm_happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-o-keyframes play-charm_happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@keyframes play-charm_happytears {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+
+.d2ce.charm_highfive {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/highfive_ti5_charm.png");
+
+    -webkit-animation: play-charm_highfive 1.4s steps(14) infinite;
+    -moz-animation: play-charm_highfive 1.4s steps(14) infinite;
+    -ms-animation: play-charm_highfive 1.4s steps(14) infinite;
+    -o-animation: play-charm_highfive 1.4s steps(14) infinite;
+    animation: play-charm_highfive 1.4s steps(14) infinite;
+}
+
+@-webkit-keyframes play-charm_highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-moz-keyframes play-charm_highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-ms-keyframes play-charm_highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-o-keyframes play-charm_highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@keyframes play-charm_highfive {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+
+.d2ce.charm_huh {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/huh_ti5_charm.png");
+
+    -webkit-animation: play-charm_huh 1.8s steps(18) infinite;
+    -moz-animation: play-charm_huh 1.8s steps(18) infinite;
+    -ms-animation: play-charm_huh 1.8s steps(18) infinite;
+    -o-animation: play-charm_huh 1.8s steps(18) infinite;
+    animation: play-charm_huh 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-charm_huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-charm_huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-charm_huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-charm_huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-charm_huh {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
+.d2ce.charm_hush {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/hush_ti5_charm.png");
+
+    -webkit-animation: play-charm_hush 1.9s steps(19) infinite;
+    -moz-animation: play-charm_hush 1.9s steps(19) infinite;
+    -ms-animation: play-charm_hush 1.9s steps(19) infinite;
+    -o-animation: play-charm_hush 1.9s steps(19) infinite;
+    animation: play-charm_hush 1.9s steps(19) infinite;
+}
+
+@-webkit-keyframes play-charm_hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-moz-keyframes play-charm_hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-ms-keyframes play-charm_hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@-o-keyframes play-charm_hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+@keyframes play-charm_hush {
+    from { background-position: 0px; }
+    to { background-position: -608px; }
+}
+
+
+.d2ce.charm_laugh {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/laugh_ti5_charm.png");
+
+    -webkit-animation: play-charm_laugh 1.2s steps(12) infinite;
+    -moz-animation: play-charm_laugh 1.2s steps(12) infinite;
+    -ms-animation: play-charm_laugh 1.2s steps(12) infinite;
+    -o-animation: play-charm_laugh 1.2s steps(12) infinite;
+    animation: play-charm_laugh 1.2s steps(12) infinite;
+}
+
+@-webkit-keyframes play-charm_laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-moz-keyframes play-charm_laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-ms-keyframes play-charm_laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-o-keyframes play-charm_laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@keyframes play-charm_laugh {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+
+.d2ce.charm_rage {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/rage_ti5_charm.png");
+
+    -webkit-animation: play-charm_rage 1.6s steps(16) infinite;
+    -moz-animation: play-charm_rage 1.6s steps(16) infinite;
+    -ms-animation: play-charm_rage 1.6s steps(16) infinite;
+    -o-animation: play-charm_rage 1.6s steps(16) infinite;
+    animation: play-charm_rage 1.6s steps(16) infinite;
+}
+
+@-webkit-keyframes play-charm_rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-moz-keyframes play-charm_rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-ms-keyframes play-charm_rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-o-keyframes play-charm_rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@keyframes play-charm_rage {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+
+.d2ce.charm_sad {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/sad_ti5_charm.png");
+
+    -webkit-animation: play-charm_sad 1.8s steps(18) infinite;
+    -moz-animation: play-charm_sad 1.8s steps(18) infinite;
+    -ms-animation: play-charm_sad 1.8s steps(18) infinite;
+    -o-animation: play-charm_sad 1.8s steps(18) infinite;
+    animation: play-charm_sad 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-charm_sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-charm_sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-charm_sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-charm_sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-charm_sad {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
+.d2ce.charm_sick {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/sick_ti5_charm.png");
+
+    -webkit-animation: play-charm_sick 1.7s steps(17) infinite;
+    -moz-animation: play-charm_sick 1.7s steps(17) infinite;
+    -ms-animation: play-charm_sick 1.7s steps(17) infinite;
+    -o-animation: play-charm_sick 1.7s steps(17) infinite;
+    animation: play-charm_sick 1.7s steps(17) infinite;
+}
+
+@-webkit-keyframes play-charm_sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-moz-keyframes play-charm_sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-ms-keyframes play-charm_sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@-o-keyframes play-charm_sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+@keyframes play-charm_sick {
+    from { background-position: 0px; }
+    to { background-position: -544px; }
+}
+
+
+.d2ce.charm_sleeping {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/sleeping_ti5_charm.png");
+
+    -webkit-animation: play-charm_sleeping 2.4s steps(12) infinite;
+    -moz-animation: play-charm_sleeping 2.4s steps(12) infinite;
+    -ms-animation: play-charm_sleeping 2.4s steps(12) infinite;
+    -o-animation: play-charm_sleeping 2.4s steps(12) infinite;
+    animation: play-charm_sleeping 2.4s steps(12) infinite;
+}
+
+@-webkit-keyframes play-charm_sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-moz-keyframes play-charm_sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-ms-keyframes play-charm_sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@-o-keyframes play-charm_sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+@keyframes play-charm_sleeping {
+    from { background-position: 0px; }
+    to { background-position: -384px; }
+}
+
+
+.d2ce.charm_surprise {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/surprise_ti5_charm.png");
+
+    -webkit-animation: play-charm_surprise 2.6s steps(26) infinite;
+    -moz-animation: play-charm_surprise 2.6s steps(26) infinite;
+    -ms-animation: play-charm_surprise 2.6s steps(26) infinite;
+    -o-animation: play-charm_surprise 2.6s steps(26) infinite;
+    animation: play-charm_surprise 2.6s steps(26) infinite;
+}
+
+@-webkit-keyframes play-charm_surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@-moz-keyframes play-charm_surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@-ms-keyframes play-charm_surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@-o-keyframes play-charm_surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+@keyframes play-charm_surprise {
+    from { background-position: 0px; }
+    to { background-position: -832px; }
+}
+
+
+.d2ce.charm_wink {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/wink_ti5_charm.png");
+
+    -webkit-animation: play-charm_wink 1.4s steps(14) infinite;
+    -moz-animation: play-charm_wink 1.4s steps(14) infinite;
+    -ms-animation: play-charm_wink 1.4s steps(14) infinite;
+    -o-animation: play-charm_wink 1.4s steps(14) infinite;
+    animation: play-charm_wink 1.4s steps(14) infinite;
+}
+
+@-webkit-keyframes play-charm_wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-moz-keyframes play-charm_wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-ms-keyframes play-charm_wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@-o-keyframes play-charm_wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+@keyframes play-charm_wink {
+    from { background-position: 0px; }
+    to { background-position: -448px; }
+}
+
+
+.d2ce.charm_smile {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/smile_ti5_charm.png");
+
+    -webkit-animation: play-charm_smile 1.6s steps(16) infinite;
+    -moz-animation: play-charm_smile 1.6s steps(16) infinite;
+    -ms-animation: play-charm_smile 1.6s steps(16) infinite;
+    -o-animation: play-charm_smile 1.6s steps(16) infinite;
+    animation: play-charm_smile 1.6s steps(16) infinite;
+}
+
+@-webkit-keyframes play-charm_smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-moz-keyframes play-charm_smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-ms-keyframes play-charm_smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-o-keyframes play-charm_smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@keyframes play-charm_smile {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+
+.d2ce.charm_onlooker {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/onlooker_ti5_charm.png");
+
+    -webkit-animation: play-charm_onlooker 0.1s steps(1) infinite;
+    -moz-animation: play-charm_onlooker 0.1s steps(1) infinite;
+    -ms-animation: play-charm_onlooker 0.1s steps(1) infinite;
+    -o-animation: play-charm_onlooker 0.1s steps(1) infinite;
+    animation: play-charm_onlooker 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-charm_onlooker {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-charm_onlooker {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-charm_onlooker {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-charm_onlooker {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-charm_onlooker {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
