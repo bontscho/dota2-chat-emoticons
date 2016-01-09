@@ -106,6 +106,8 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:charm_wink:](assets/images/charm_wink.gif)
 ![:charm_smile:](assets/images/charm_smile.gif)
 ![:charm_onlooker:](assets/images/charm_onlooker.gif)
+![:eaglesong_2015:](assets/images/eaglesong_2015.gif)
+![:wrath:](assets/images/wrath.gif)
 
 ### 24x24px
 
@@ -208,6 +210,8 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:charm_wink:](assets/images/charm_wink-24.gif)
 ![:charm_smile:](assets/images/charm_smile-24.gif)
 ![:charm_onlooker:](assets/images/charm_onlooker-24.gif)
+![:eaglesong_2015:](assets/images/eaglesong_2015-24.gif)
+![:wrath:](assets/images/wrath-24.gif)
 
 ### 16x16px
 
@@ -310,6 +314,8 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:charm_wink:](assets/images/charm_wink-16.gif)
 ![:charm_smile:](assets/images/charm_smile-16.gif)
 ![:charm_onlooker:](assets/images/charm_onlooker-16.gif)
+![:eaglesong_2015:](assets/images/eaglesong_2015-16.gif)
+![:wrath:](assets/images/wrath-16.gif)
 
 ## Installation & Usage
 

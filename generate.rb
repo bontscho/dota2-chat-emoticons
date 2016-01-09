@@ -4,9 +4,9 @@ require 'open-uri'
 require 'erubis'
 
 images = nil
-repo = "https://raw.githubusercontent.com/dotabuff/d2vpk/master"
+repo = "https://raw.githubusercontent.com/dotabuff/d2vpkr/master"
 
-open("#{repo}/json/dota_pak01/scripts/emoticons.json") do |file|
+open("#{repo}/dota/scripts/emoticons.json") do |file|
   parsed = JSON.parse(file.read)
   images = parsed["emoticons"]
 end
@@ -19,7 +19,7 @@ images.each do |image|
   source = "assets/images/emoticons/#{image_name}"
 
   unless File.file?(source)
-    source_url = "#{repo}/dota_pak01/resource/flash3/images/emoticons/#{image_name}"
+    source_url = "#{repo}/dota/resource/flash3/images/emoticons/#{image_name}"
     open(source_url, 'rb') do |from|
       open(source, 'wb') do |to|
         puts "Downloading: #{source_url} => #{source}..."
