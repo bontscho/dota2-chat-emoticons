@@ -13,26 +13,24 @@
     <body>
     <h1>Dota 2 Chat Emoticons CSS Animation Demo</h1>
 
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PNG</th>
+        <th>GIF32</th>
+        <th>GIF24</th>
+        <th>GIF16</th>
+      </tr>
     <% emotes.each do |e| %>
-        <i class="d2ce <%= e[:name] %>"></i>
+      <tr>
+        <td><%= e[:name] %></td>
+        <td><i class="d2ce <%= e[:name] %>" title="<%= e[:name] %>"></i></td>
+        <td><img src="assets/images/<%= e[:name] %>.gif"></td>
+        <td><img src="assets/images/<%= e[:name] %>-24.gif"></td>
+        <td><img src="assets/images/<%= e[:name] %>-16.gif"></td>
+      </tr>
     <% end %>
-
-    <h1>GIF</h1>
-
-    <h2>32x32</h2>
-    <% emotes.each do |e| %>
-        <img src="assets/images/<%= e[:name] %>.gif">
-    <% end %>
-
-    <h2>24x24</h2>
-    <% emotes.each do |e| %>
-        <img src="assets/images/<%= e[:name] %>-24.gif">
-    <% end %>
-
-    <h2>16x16</h2>
-    <% emotes.each do |e| %>
-        <img src="assets/images/<%= e[:name] %>-16.gif">
-    <% end %>
+    </table>
 
     </body>
 </html>

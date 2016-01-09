@@ -56,7 +56,7 @@ images.each do |image|
   }
 end
 
-# generate stylsheet for png stuff
+# generate stylesheet for png stuff
 sheet = File.read('src/stylesheet.css.eruby')
 eruby = Erubis::Eruby.new(sheet)
 
