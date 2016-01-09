@@ -3859,3 +3859,81 @@
     to { background-position: -32px; }
 }
 
+
+.d2ce.eaglesong_2015 {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/fall_major_2015_eaglesong.png");
+
+    -webkit-animation: play-eaglesong_2015 2.5s steps(25) infinite;
+    -moz-animation: play-eaglesong_2015 2.5s steps(25) infinite;
+    -ms-animation: play-eaglesong_2015 2.5s steps(25) infinite;
+    -o-animation: play-eaglesong_2015 2.5s steps(25) infinite;
+    animation: play-eaglesong_2015 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-eaglesong_2015 {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-eaglesong_2015 {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-eaglesong_2015 {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-eaglesong_2015 {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-eaglesong_2015 {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.wrath {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/zeus_arcana.png");
+
+    -webkit-animation: play-wrath 2.2s steps(22) infinite;
+    -moz-animation: play-wrath 2.2s steps(22) infinite;
+    -ms-animation: play-wrath 2.2s steps(22) infinite;
+    -o-animation: play-wrath 2.2s steps(22) infinite;
+    animation: play-wrath 2.2s steps(22) infinite;
+}
+
+@-webkit-keyframes play-wrath {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-moz-keyframes play-wrath {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-ms-keyframes play-wrath {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@-o-keyframes play-wrath {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
+@keyframes play-wrath {
+    from { background-position: 0px; }
+    to { background-position: -704px; }
+}
+
