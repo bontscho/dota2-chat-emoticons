@@ -2,9 +2,16 @@ require 'json'
 require 'rake'
 require 'open-uri'
 require 'erubis'
+require 'fileutils'
 
 images = nil
 repo = "https://raw.githubusercontent.com/dotabuff/d2vpkr/master"
+img_src = File.expand_path(ENV["EMOTICON_SRC"] || "../../dotabuff/panorama/panorama/images/emoticons")
+
+unless File.directory?(img_src)
+  puts "Cannot find emoticon src folder: #{img_src}"
+  exit 1
+end
 
 open("#{repo}/dota/scripts/emoticons.json") do |file|
   parsed = JSON.parse(file.read)
@@ -16,16 +23,35 @@ emotes = []
 images.each do |image|
   image_name = image["image_name"]
   alias_name = image["aliases"].first
+
+  # Rename aliases for pro teams (they're all the same otherwise)
+  if alias_name.start_with?("pro_team")
+    alias_name = image_name.gsub(".png","")
+  end
+
   source = "assets/images/emoticons/#{image_name}"
 
   unless File.file?(source)
-    source_url = "#{repo}/dota/resource/flash3/images/emoticons/#{image_name}"
+    source_url = "#{img_src}/#{image_name.gsub(".png","")}_png.png"
     open(source_url, 'rb') do |from|
       open(source, 'wb') do |to|
         puts "Downloading: #{source_url} => #{source}..."
         len = IO.copy_stream(from, to)
         puts "Copied #{len} bytes"
       end
+    end
+  else
+    if ARGV.length == 0 || ARGV[0] != "--regenerate"
+      puts "Skipping #{image_name} because it already exists. Use --regenerate to force generation"
+
+      # Add it to the list so everything else happens correctly
+      emotes << {
+          name: alias_name,
+          image: image_name,
+          width: `identify -format "%w" assets/images/emoticons/#{image_name}`.to_i,
+          delay: image["ms_per_frame"].to_f/1000
+      }
+      next
     end
   end
 

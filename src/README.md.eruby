@@ -34,8 +34,11 @@ In case Valve adds more emoticons:
 
 You will need graphicscmagick/imagemagick (`apt-get install graphicsmagick` on Debian/Ubuntu) and Ruby (get it e.g. via [rvm.io](http://rvm.io)) to run the generator.
 
+1. Extract the emoticon source images from the VPK using a tool such as https://github.com/SteamDatabase/ValveResourceFormat.
+The source image are inside `panorama/images/emoticons`.
+1. Export an environment variable `EMOTICON_SRC` that points to this folder.
 1. Run `bundle` to get the required packages for the generator
-2. Run `ruby generator.rb`
+1. Run `ruby generator.rb`. By default, this command will not regenerate existing emoticons. Use the `--regenerate` flag if all emoticons need to be regenerated.
 
 > **Important**: If you plan to update this README, update the file `src/README.md.eruby` since the README will be generated from it
 
