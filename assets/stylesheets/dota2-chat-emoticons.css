@@ -7253,6 +7253,45 @@
 }
 
 
+.d2ce.siltbreaker {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/siltbreaker_trophy.png");
+
+    -webkit-animation: play-siltbreaker 1.6s steps(16) infinite;
+    -moz-animation: play-siltbreaker 1.6s steps(16) infinite;
+    -ms-animation: play-siltbreaker 1.6s steps(16) infinite;
+    -o-animation: play-siltbreaker 1.6s steps(16) infinite;
+    animation: play-siltbreaker 1.6s steps(16) infinite;
+}
+
+@-webkit-keyframes play-siltbreaker {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-moz-keyframes play-siltbreaker {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-ms-keyframes play-siltbreaker {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@-o-keyframes play-siltbreaker {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+@keyframes play-siltbreaker {
+    from { background-position: 0px; }
+    to { background-position: -512px; }
+}
+
+
 .d2ce.team_eg {
     width: 32px;
     height: 32px;
