@@ -193,6 +193,7 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:nerd:](assets/images/nerd.gif)
 ![:confounded:](assets/images/confounded.gif)
 ![:joke:](assets/images/joke.gif)
+![:siltbreaker:](assets/images/siltbreaker.gif)
 ![:team_eg:](assets/images/team_eg.gif)
 ![:team_eg_silver:](assets/images/team_eg_silver.gif)
 ![:team_eg_gold:](assets/images/team_eg_gold.gif)
