@@ -7292,6 +7292,45 @@
 }
 
 
+.d2ce.mischief {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/monkey_king_arcana.png");
+
+    -webkit-animation: play-mischief 1.8s steps(18) infinite;
+    -moz-animation: play-mischief 1.8s steps(18) infinite;
+    -ms-animation: play-mischief 1.8s steps(18) infinite;
+    -o-animation: play-mischief 1.8s steps(18) infinite;
+    animation: play-mischief 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-mischief {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-mischief {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-mischief {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-mischief {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-mischief {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
 .d2ce.team_eg {
     width: 32px;
     height: 32px;
@@ -9281,41 +9320,938 @@
 }
 
 
-.d2ce.mischief {
+.d2ce.team_liquid {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/monkey_king_arcana.png");
+    background-image: url("../images/emoticons/team_liquid.png");
 
-    -webkit-animation: play-mischief 1.8s steps(18) infinite;
-    -moz-animation: play-mischief 1.8s steps(18) infinite;
-    -ms-animation: play-mischief 1.8s steps(18) infinite;
-    -o-animation: play-mischief 1.8s steps(18) infinite;
-    animation: play-mischief 1.8s steps(18) infinite;
+    -webkit-animation: play-team_liquid 0.1s steps(1) infinite;
+    -moz-animation: play-team_liquid 0.1s steps(1) infinite;
+    -ms-animation: play-team_liquid 0.1s steps(1) infinite;
+    -o-animation: play-team_liquid 0.1s steps(1) infinite;
+    animation: play-team_liquid 0.1s steps(1) infinite;
 }
 
-@-webkit-keyframes play-mischief {
+@-webkit-keyframes play-team_liquid {
     from { background-position: 0px; }
-    to { background-position: -576px; }
+    to { background-position: -32px; }
 }
 
-@-moz-keyframes play-mischief {
+@-moz-keyframes play-team_liquid {
     from { background-position: 0px; }
-    to { background-position: -576px; }
+    to { background-position: -32px; }
 }
 
-@-ms-keyframes play-mischief {
+@-ms-keyframes play-team_liquid {
     from { background-position: 0px; }
-    to { background-position: -576px; }
+    to { background-position: -32px; }
 }
 
-@-o-keyframes play-mischief {
+@-o-keyframes play-team_liquid {
     from { background-position: 0px; }
-    to { background-position: -576px; }
+    to { background-position: -32px; }
 }
 
-@keyframes play-mischief {
+@keyframes play-team_liquid {
     from { background-position: 0px; }
-    to { background-position: -576px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_liquid_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_liquid_silver.png");
+
+    -webkit-animation: play-team_liquid_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_liquid_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_liquid_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_liquid_silver 2.5s steps(25) infinite;
+    animation: play-team_liquid_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_liquid_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_liquid_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_liquid_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_liquid_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_liquid_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_liquid_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_liquid_gold.png");
+
+    -webkit-animation: play-team_liquid_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_liquid_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_liquid_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_liquid_gold 2.5s steps(25) infinite;
+    animation: play-team_liquid_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_liquid_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_liquid_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_liquid_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_liquid_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_liquid_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_ig {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_ig.png");
+
+    -webkit-animation: play-team_ig 0.1s steps(1) infinite;
+    -moz-animation: play-team_ig 0.1s steps(1) infinite;
+    -ms-animation: play-team_ig 0.1s steps(1) infinite;
+    -o-animation: play-team_ig 0.1s steps(1) infinite;
+    animation: play-team_ig 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-team_ig {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-team_ig {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-team_ig {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-team_ig {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-team_ig {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_ig_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_ig_silver.png");
+
+    -webkit-animation: play-team_ig_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_ig_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_ig_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_ig_silver 2.5s steps(25) infinite;
+    animation: play-team_ig_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_ig_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_ig_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_ig_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_ig_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_ig_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_ig_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_ig_gold.png");
+
+    -webkit-animation: play-team_ig_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_ig_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_ig_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_ig_gold 2.5s steps(25) infinite;
+    animation: play-team_ig_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_ig_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_ig_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_ig_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_ig_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_ig_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_infamous {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_infamous.png");
+
+    -webkit-animation: play-team_infamous 0.1s steps(1) infinite;
+    -moz-animation: play-team_infamous 0.1s steps(1) infinite;
+    -ms-animation: play-team_infamous 0.1s steps(1) infinite;
+    -o-animation: play-team_infamous 0.1s steps(1) infinite;
+    animation: play-team_infamous 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-team_infamous {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-team_infamous {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-team_infamous {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-team_infamous {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-team_infamous {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_infamous_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_infamous_silver.png");
+
+    -webkit-animation: play-team_infamous_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_infamous_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_infamous_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_infamous_silver 2.5s steps(25) infinite;
+    animation: play-team_infamous_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_infamous_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_infamous_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_infamous_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_infamous_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_infamous_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_infamous_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_infamous_gold.png");
+
+    -webkit-animation: play-team_infamous_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_infamous_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_infamous_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_infamous_gold 2.5s steps(25) infinite;
+    animation: play-team_infamous_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_infamous_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_infamous_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_infamous_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_infamous_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_infamous_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_tnc {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_tnc.png");
+
+    -webkit-animation: play-team_tnc 0.1s steps(1) infinite;
+    -moz-animation: play-team_tnc 0.1s steps(1) infinite;
+    -ms-animation: play-team_tnc 0.1s steps(1) infinite;
+    -o-animation: play-team_tnc 0.1s steps(1) infinite;
+    animation: play-team_tnc 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-team_tnc {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-team_tnc {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-team_tnc {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-team_tnc {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-team_tnc {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_tnc_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_tnc_silver.png");
+
+    -webkit-animation: play-team_tnc_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_tnc_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_tnc_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_tnc_silver 2.5s steps(25) infinite;
+    animation: play-team_tnc_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_tnc_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_tnc_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_tnc_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_tnc_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_tnc_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_tnc_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_tnc_gold.png");
+
+    -webkit-animation: play-team_tnc_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_tnc_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_tnc_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_tnc_gold 2.5s steps(25) infinite;
+    animation: play-team_tnc_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_tnc_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_tnc_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_tnc_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_tnc_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_tnc_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_fnatic {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_fnatic.png");
+
+    -webkit-animation: play-team_fnatic 0.1s steps(1) infinite;
+    -moz-animation: play-team_fnatic 0.1s steps(1) infinite;
+    -ms-animation: play-team_fnatic 0.1s steps(1) infinite;
+    -o-animation: play-team_fnatic 0.1s steps(1) infinite;
+    animation: play-team_fnatic 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-team_fnatic {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-team_fnatic {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-team_fnatic {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-team_fnatic {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-team_fnatic {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_fnatic_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_fnatic_silver.png");
+
+    -webkit-animation: play-team_fnatic_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_fnatic_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_fnatic_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_fnatic_silver 2.5s steps(25) infinite;
+    animation: play-team_fnatic_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_fnatic_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_fnatic_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_fnatic_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_fnatic_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_fnatic_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_fnatic_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_fnatic_gold.png");
+
+    -webkit-animation: play-team_fnatic_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_fnatic_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_fnatic_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_fnatic_gold 2.5s steps(25) infinite;
+    animation: play-team_fnatic_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_fnatic_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_fnatic_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_fnatic_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_fnatic_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_fnatic_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_secret {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_secret.png");
+
+    -webkit-animation: play-team_secret 0.1s steps(1) infinite;
+    -moz-animation: play-team_secret 0.1s steps(1) infinite;
+    -ms-animation: play-team_secret 0.1s steps(1) infinite;
+    -o-animation: play-team_secret 0.1s steps(1) infinite;
+    animation: play-team_secret 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-team_secret {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-team_secret {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-team_secret {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-team_secret {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-team_secret {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_secret_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_secret_silver.png");
+
+    -webkit-animation: play-team_secret_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_secret_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_secret_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_secret_silver 2.5s steps(25) infinite;
+    animation: play-team_secret_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_secret_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_secret_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_secret_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_secret_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_secret_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_secret_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_secret_gold.png");
+
+    -webkit-animation: play-team_secret_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_secret_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_secret_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_secret_gold 2.5s steps(25) infinite;
+    animation: play-team_secret_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_secret_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_secret_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_secret_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_secret_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_secret_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_planet_dog {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_planet_dog.png");
+
+    -webkit-animation: play-team_planet_dog 0.1s steps(1) infinite;
+    -moz-animation: play-team_planet_dog 0.1s steps(1) infinite;
+    -ms-animation: play-team_planet_dog 0.1s steps(1) infinite;
+    -o-animation: play-team_planet_dog 0.1s steps(1) infinite;
+    animation: play-team_planet_dog 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-team_planet_dog {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-team_planet_dog {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-team_planet_dog {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-team_planet_dog {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-team_planet_dog {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_planet_dog_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_planet_dog_silver.png");
+
+    -webkit-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
+    animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_planet_dog_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_planet_dog_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_planet_dog_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_planet_dog_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_planet_dog_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_planet_dog_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_planet_dog_gold.png");
+
+    -webkit-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
+    animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_planet_dog_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_planet_dog_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_planet_dog_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_planet_dog_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_planet_dog_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_empire {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_empire.png");
+
+    -webkit-animation: play-team_empire 0.1s steps(1) infinite;
+    -moz-animation: play-team_empire 0.1s steps(1) infinite;
+    -ms-animation: play-team_empire 0.1s steps(1) infinite;
+    -o-animation: play-team_empire 0.1s steps(1) infinite;
+    animation: play-team_empire 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-team_empire {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-team_empire {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-team_empire {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-team_empire {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-team_empire {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.team_empire_silver {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_empire_silver.png");
+
+    -webkit-animation: play-team_empire_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_empire_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_empire_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_empire_silver 2.5s steps(25) infinite;
+    animation: play-team_empire_silver 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_empire_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_empire_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_empire_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_empire_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_empire_silver {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+
+.d2ce.team_empire_gold {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/team_empire_gold.png");
+
+    -webkit-animation: play-team_empire_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_empire_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_empire_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_empire_gold 2.5s steps(25) infinite;
+    animation: play-team_empire_gold 2.5s steps(25) infinite;
+}
+
+@-webkit-keyframes play-team_empire_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-moz-keyframes play-team_empire_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-ms-keyframes play-team_empire_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@-o-keyframes play-team_empire_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
+}
+
+@keyframes play-team_empire_gold {
+    from { background-position: 0px; }
+    to { background-position: -800px; }
 }
 
