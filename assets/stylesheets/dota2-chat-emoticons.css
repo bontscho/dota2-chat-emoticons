@@ -7331,6 +7331,435 @@
 }
 
 
+.d2ce.heykid {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_axe_heykid.png");
+
+    -webkit-animation: play-heykid 1.8s steps(18) infinite;
+    -moz-animation: play-heykid 1.8s steps(18) infinite;
+    -ms-animation: play-heykid 1.8s steps(18) infinite;
+    -o-animation: play-heykid 1.8s steps(18) infinite;
+    animation: play-heykid 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-heykid {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-heykid {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-heykid {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-heykid {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-heykid {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
+.d2ce.huff {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_cm_huff.png");
+
+    -webkit-animation: play-huff 2.4s steps(24) infinite;
+    -moz-animation: play-huff 2.4s steps(24) infinite;
+    -ms-animation: play-huff 2.4s steps(24) infinite;
+    -o-animation: play-huff 2.4s steps(24) infinite;
+    animation: play-huff 2.4s steps(24) infinite;
+}
+
+@-webkit-keyframes play-huff {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-moz-keyframes play-huff {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-ms-keyframes play-huff {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@-o-keyframes play-huff {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+@keyframes play-huff {
+    from { background-position: 0px; }
+    to { background-position: -768px; }
+}
+
+
+.d2ce.beg {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_es_beg.png");
+
+    -webkit-animation: play-beg 2.3s steps(23) infinite;
+    -moz-animation: play-beg 2.3s steps(23) infinite;
+    -ms-animation: play-beg 2.3s steps(23) infinite;
+    -o-animation: play-beg 2.3s steps(23) infinite;
+    animation: play-beg 2.3s steps(23) infinite;
+}
+
+@-webkit-keyframes play-beg {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-moz-keyframes play-beg {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-ms-keyframes play-beg {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-o-keyframes play-beg {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@keyframes play-beg {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+
+.d2ce.kisskiss {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_kunkka_kisskiss.png");
+
+    -webkit-animation: play-kisskiss 2.8s steps(28) infinite;
+    -moz-animation: play-kisskiss 2.8s steps(28) infinite;
+    -ms-animation: play-kisskiss 2.8s steps(28) infinite;
+    -o-animation: play-kisskiss 2.8s steps(28) infinite;
+    animation: play-kisskiss 2.8s steps(28) infinite;
+}
+
+@-webkit-keyframes play-kisskiss {
+    from { background-position: 0px; }
+    to { background-position: -896px; }
+}
+
+@-moz-keyframes play-kisskiss {
+    from { background-position: 0px; }
+    to { background-position: -896px; }
+}
+
+@-ms-keyframes play-kisskiss {
+    from { background-position: 0px; }
+    to { background-position: -896px; }
+}
+
+@-o-keyframes play-kisskiss {
+    from { background-position: 0px; }
+    to { background-position: -896px; }
+}
+
+@keyframes play-kisskiss {
+    from { background-position: 0px; }
+    to { background-position: -896px; }
+}
+
+
+.d2ce.snort {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_mk_snort.png");
+
+    -webkit-animation: play-snort 1.8s steps(18) infinite;
+    -moz-animation: play-snort 1.8s steps(18) infinite;
+    -ms-animation: play-snort 1.8s steps(18) infinite;
+    -o-animation: play-snort 1.8s steps(18) infinite;
+    animation: play-snort 1.8s steps(18) infinite;
+}
+
+@-webkit-keyframes play-snort {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-moz-keyframes play-snort {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-ms-keyframes play-snort {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@-o-keyframes play-snort {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+@keyframes play-snort {
+    from { background-position: 0px; }
+    to { background-position: -576px; }
+}
+
+
+.d2ce.sweat {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_naga_sweat.png");
+
+    -webkit-animation: play-sweat 2.3s steps(23) infinite;
+    -moz-animation: play-sweat 2.3s steps(23) infinite;
+    -ms-animation: play-sweat 2.3s steps(23) infinite;
+    -o-animation: play-sweat 2.3s steps(23) infinite;
+    animation: play-sweat 2.3s steps(23) infinite;
+}
+
+@-webkit-keyframes play-sweat {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-moz-keyframes play-sweat {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-ms-keyframes play-sweat {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-o-keyframes play-sweat {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@keyframes play-sweat {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+
+.d2ce.chuckle {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_pudge_chuckle.png");
+
+    -webkit-animation: play-chuckle 2.3s steps(23) infinite;
+    -moz-animation: play-chuckle 2.3s steps(23) infinite;
+    -ms-animation: play-chuckle 2.3s steps(23) infinite;
+    -o-animation: play-chuckle 2.3s steps(23) infinite;
+    animation: play-chuckle 2.3s steps(23) infinite;
+}
+
+@-webkit-keyframes play-chuckle {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-moz-keyframes play-chuckle {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-ms-keyframes play-chuckle {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-o-keyframes play-chuckle {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@keyframes play-chuckle {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+
+.d2ce.stars {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_roshan_stars.png");
+
+    -webkit-animation: play-stars 0.3s steps(3) infinite;
+    -moz-animation: play-stars 0.3s steps(3) infinite;
+    -ms-animation: play-stars 0.3s steps(3) infinite;
+    -o-animation: play-stars 0.3s steps(3) infinite;
+    animation: play-stars 0.3s steps(3) infinite;
+}
+
+@-webkit-keyframes play-stars {
+    from { background-position: 0px; }
+    to { background-position: -96px; }
+}
+
+@-moz-keyframes play-stars {
+    from { background-position: 0px; }
+    to { background-position: -96px; }
+}
+
+@-ms-keyframes play-stars {
+    from { background-position: 0px; }
+    to { background-position: -96px; }
+}
+
+@-o-keyframes play-stars {
+    from { background-position: 0px; }
+    to { background-position: -96px; }
+}
+
+@keyframes play-stars {
+    from { background-position: 0px; }
+    to { background-position: -96px; }
+}
+
+
+.d2ce.wait {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_slardar_wait.png");
+
+    -webkit-animation: play-wait 2.1s steps(21) infinite;
+    -moz-animation: play-wait 2.1s steps(21) infinite;
+    -ms-animation: play-wait 2.1s steps(21) infinite;
+    -o-animation: play-wait 2.1s steps(21) infinite;
+    animation: play-wait 2.1s steps(21) infinite;
+}
+
+@-webkit-keyframes play-wait {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-moz-keyframes play-wait {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-ms-keyframes play-wait {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@-o-keyframes play-wait {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+@keyframes play-wait {
+    from { background-position: 0px; }
+    to { background-position: -672px; }
+}
+
+
+.d2ce.sleep {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_slark_sleep.png");
+
+    -webkit-animation: play-sleep 3.0s steps(30) infinite;
+    -moz-animation: play-sleep 3.0s steps(30) infinite;
+    -ms-animation: play-sleep 3.0s steps(30) infinite;
+    -o-animation: play-sleep 3.0s steps(30) infinite;
+    animation: play-sleep 3.0s steps(30) infinite;
+}
+
+@-webkit-keyframes play-sleep {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-moz-keyframes play-sleep {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-ms-keyframes play-sleep {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-o-keyframes play-sleep {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@keyframes play-sleep {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+
+.d2ce.bawl {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/dotakin_tide_bawl.png");
+
+    -webkit-animation: play-bawl 3.8s steps(38) infinite;
+    -moz-animation: play-bawl 3.8s steps(38) infinite;
+    -ms-animation: play-bawl 3.8s steps(38) infinite;
+    -o-animation: play-bawl 3.8s steps(38) infinite;
+    animation: play-bawl 3.8s steps(38) infinite;
+}
+
+@-webkit-keyframes play-bawl {
+    from { background-position: 0px; }
+    to { background-position: -1216px; }
+}
+
+@-moz-keyframes play-bawl {
+    from { background-position: 0px; }
+    to { background-position: -1216px; }
+}
+
+@-ms-keyframes play-bawl {
+    from { background-position: 0px; }
+    to { background-position: -1216px; }
+}
+
+@-o-keyframes play-bawl {
+    from { background-position: 0px; }
+    to { background-position: -1216px; }
+}
+
+@keyframes play-bawl {
+    from { background-position: 0px; }
+    to { background-position: -1216px; }
+}
+
+
 .d2ce.team_eg {
     width: 32px;
     height: 32px;
@@ -10022,118 +10451,118 @@
 }
 
 
-.d2ce.team_planet_dog {
+.d2ce.team_hellraisers {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/team_planet_dog.png");
+    background-image: url("../images/emoticons/team_hellraisers.png");
 
-    -webkit-animation: play-team_planet_dog 0.1s steps(1) infinite;
-    -moz-animation: play-team_planet_dog 0.1s steps(1) infinite;
-    -ms-animation: play-team_planet_dog 0.1s steps(1) infinite;
-    -o-animation: play-team_planet_dog 0.1s steps(1) infinite;
-    animation: play-team_planet_dog 0.1s steps(1) infinite;
+    -webkit-animation: play-team_hellraisers 0.1s steps(1) infinite;
+    -moz-animation: play-team_hellraisers 0.1s steps(1) infinite;
+    -ms-animation: play-team_hellraisers 0.1s steps(1) infinite;
+    -o-animation: play-team_hellraisers 0.1s steps(1) infinite;
+    animation: play-team_hellraisers 0.1s steps(1) infinite;
 }
 
-@-webkit-keyframes play-team_planet_dog {
+@-webkit-keyframes play-team_hellraisers {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@-moz-keyframes play-team_planet_dog {
+@-moz-keyframes play-team_hellraisers {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@-ms-keyframes play-team_planet_dog {
+@-ms-keyframes play-team_hellraisers {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@-o-keyframes play-team_planet_dog {
+@-o-keyframes play-team_hellraisers {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@keyframes play-team_planet_dog {
+@keyframes play-team_hellraisers {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
 
-.d2ce.team_planet_dog_silver {
+.d2ce.team_hellraisers_silver {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/team_planet_dog_silver.png");
+    background-image: url("../images/emoticons/team_hellraisers_silver.png");
 
-    -webkit-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
-    -moz-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
-    -ms-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
-    -o-animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
-    animation: play-team_planet_dog_silver 2.5s steps(25) infinite;
+    -webkit-animation: play-team_hellraisers_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_hellraisers_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_hellraisers_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_hellraisers_silver 2.5s steps(25) infinite;
+    animation: play-team_hellraisers_silver 2.5s steps(25) infinite;
 }
 
-@-webkit-keyframes play-team_planet_dog_silver {
+@-webkit-keyframes play-team_hellraisers_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-moz-keyframes play-team_planet_dog_silver {
+@-moz-keyframes play-team_hellraisers_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-ms-keyframes play-team_planet_dog_silver {
+@-ms-keyframes play-team_hellraisers_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-o-keyframes play-team_planet_dog_silver {
+@-o-keyframes play-team_hellraisers_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@keyframes play-team_planet_dog_silver {
+@keyframes play-team_hellraisers_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
 
-.d2ce.team_planet_dog_gold {
+.d2ce.team_hellraisers_gold {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/team_planet_dog_gold.png");
+    background-image: url("../images/emoticons/team_hellraisers_gold.png");
 
-    -webkit-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
-    -moz-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
-    -ms-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
-    -o-animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
-    animation: play-team_planet_dog_gold 2.5s steps(25) infinite;
+    -webkit-animation: play-team_hellraisers_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_hellraisers_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_hellraisers_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_hellraisers_gold 2.5s steps(25) infinite;
+    animation: play-team_hellraisers_gold 2.5s steps(25) infinite;
 }
 
-@-webkit-keyframes play-team_planet_dog_gold {
+@-webkit-keyframes play-team_hellraisers_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-moz-keyframes play-team_planet_dog_gold {
+@-moz-keyframes play-team_hellraisers_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-ms-keyframes play-team_planet_dog_gold {
+@-ms-keyframes play-team_hellraisers_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-o-keyframes play-team_planet_dog_gold {
+@-o-keyframes play-team_hellraisers_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@keyframes play-team_planet_dog_gold {
+@keyframes play-team_hellraisers_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
