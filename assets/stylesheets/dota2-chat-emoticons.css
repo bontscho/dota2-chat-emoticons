@@ -9281,118 +9281,118 @@
 }
 
 
-.d2ce.team_np {
+.d2ce.team_cloud9 {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/team_np.png");
+    background-image: url("../images/emoticons/team_cloud9.png");
 
-    -webkit-animation: play-team_np 0.1s steps(1) infinite;
-    -moz-animation: play-team_np 0.1s steps(1) infinite;
-    -ms-animation: play-team_np 0.1s steps(1) infinite;
-    -o-animation: play-team_np 0.1s steps(1) infinite;
-    animation: play-team_np 0.1s steps(1) infinite;
+    -webkit-animation: play-team_cloud9 0.1s steps(1) infinite;
+    -moz-animation: play-team_cloud9 0.1s steps(1) infinite;
+    -ms-animation: play-team_cloud9 0.1s steps(1) infinite;
+    -o-animation: play-team_cloud9 0.1s steps(1) infinite;
+    animation: play-team_cloud9 0.1s steps(1) infinite;
 }
 
-@-webkit-keyframes play-team_np {
+@-webkit-keyframes play-team_cloud9 {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@-moz-keyframes play-team_np {
+@-moz-keyframes play-team_cloud9 {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@-ms-keyframes play-team_np {
+@-ms-keyframes play-team_cloud9 {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@-o-keyframes play-team_np {
+@-o-keyframes play-team_cloud9 {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
-@keyframes play-team_np {
+@keyframes play-team_cloud9 {
     from { background-position: 0px; }
     to { background-position: -32px; }
 }
 
 
-.d2ce.team_np_silver {
+.d2ce.team_cloud9_silver {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/team_np_silver.png");
+    background-image: url("../images/emoticons/team_cloud9_silver.png");
 
-    -webkit-animation: play-team_np_silver 2.5s steps(25) infinite;
-    -moz-animation: play-team_np_silver 2.5s steps(25) infinite;
-    -ms-animation: play-team_np_silver 2.5s steps(25) infinite;
-    -o-animation: play-team_np_silver 2.5s steps(25) infinite;
-    animation: play-team_np_silver 2.5s steps(25) infinite;
+    -webkit-animation: play-team_cloud9_silver 2.5s steps(25) infinite;
+    -moz-animation: play-team_cloud9_silver 2.5s steps(25) infinite;
+    -ms-animation: play-team_cloud9_silver 2.5s steps(25) infinite;
+    -o-animation: play-team_cloud9_silver 2.5s steps(25) infinite;
+    animation: play-team_cloud9_silver 2.5s steps(25) infinite;
 }
 
-@-webkit-keyframes play-team_np_silver {
+@-webkit-keyframes play-team_cloud9_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-moz-keyframes play-team_np_silver {
+@-moz-keyframes play-team_cloud9_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-ms-keyframes play-team_np_silver {
+@-ms-keyframes play-team_cloud9_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-o-keyframes play-team_np_silver {
+@-o-keyframes play-team_cloud9_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@keyframes play-team_np_silver {
+@keyframes play-team_cloud9_silver {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
 
-.d2ce.team_np_gold {
+.d2ce.team_cloud9_gold {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background-image: url("../images/emoticons/team_np_gold.png");
+    background-image: url("../images/emoticons/team_cloud9_gold.png");
 
-    -webkit-animation: play-team_np_gold 2.5s steps(25) infinite;
-    -moz-animation: play-team_np_gold 2.5s steps(25) infinite;
-    -ms-animation: play-team_np_gold 2.5s steps(25) infinite;
-    -o-animation: play-team_np_gold 2.5s steps(25) infinite;
-    animation: play-team_np_gold 2.5s steps(25) infinite;
+    -webkit-animation: play-team_cloud9_gold 2.5s steps(25) infinite;
+    -moz-animation: play-team_cloud9_gold 2.5s steps(25) infinite;
+    -ms-animation: play-team_cloud9_gold 2.5s steps(25) infinite;
+    -o-animation: play-team_cloud9_gold 2.5s steps(25) infinite;
+    animation: play-team_cloud9_gold 2.5s steps(25) infinite;
 }
 
-@-webkit-keyframes play-team_np_gold {
+@-webkit-keyframes play-team_cloud9_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-moz-keyframes play-team_np_gold {
+@-moz-keyframes play-team_cloud9_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-ms-keyframes play-team_np_gold {
+@-ms-keyframes play-team_cloud9_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@-o-keyframes play-team_np_gold {
+@-o-keyframes play-team_cloud9_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
 
-@keyframes play-team_np_gold {
+@keyframes play-team_cloud9_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
 }
